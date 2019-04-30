@@ -1,0 +1,231 @@
+html {
+	font-family: Georgia;
+	
+}
+
+#bodyStuff {
+	margin-bottom: 10%;
+	max-width: 700px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.source {
+	font-size: 12px;
+	font-weight: bold;
+	
+	text-decoration: underline;
+	text-indent: 0;
+	
+	color: #6430ff;
+	
+	line-height: 100%;
+	
+	vertical-align: super;
+}
+
+.source[alt]:hover:after, span[alt]:hover:after { /*TODO: Fix this lmao */
+	content: attr(alt);
+	position: absolute;
+	
+	margin-top: -20px;
+	margin-left: 0px;
+	
+	font-family: helvetica neue;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 130%;
+	text-align: left;
+	
+	color: #5b5b5b;
+	
+	max-width: 200px;
+	
+	background-color: #fffbb0;
+	padding: 3px 6px;
+	border: 1px dotted black
+}
+
+#header {
+	text-align: center;
+	margin-bottom: 70px;
+	padding: 20px;
+	
+	background-color: #7e624e;
+	color: white;
+}
+
+h1 { /* I'm not really anticipating there being any other h1 other than the headerTitle, but this is just 'welcome to the composing swamp' */
+	font-family: Helvetica Neue;
+	font-weight: 300;
+	text-transform: lowercase;
+}
+
+h2 {
+	font-size: 20px; /* Did I really just forget how to do absolute font sizes? 4/25/19. never forget */
+	font-family: Helvetica Neue;
+	font-weight: 400;
+	
+	margin-top: 60px;
+	color: #573f2d
+}
+
+#header h2 {
+	margin-top: -20px;
+	color: inherit;
+}
+
+#header h3 {
+	font-size: 16px;
+	margin-top: 15px;
+	
+	font-family: Georgia;
+	font-style: italic;
+	font-weight: normal;
+	text-transform: lowercase;
+}
+
+h3 {
+	font-size: 16px;
+	margin-top: 60px;
+	text-align: center;
+	
+	font-style: italic;
+	font-weight: normal;
+}
+
+p {
+	line-height: 150%;
+	text-indent: 1.6em;
+	text-align: justify;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+	margin-bottom: -10px;
+}
+
+b {
+	margin-left: -1.6em;
+}
+
+a {
+	color: #7e624e;
+}
+
+.unstyleda {
+	color: inherit;
+	text-decoration: none;
+}
+
+#toc {
+	font-family: Helvetica Neue;
+	margin-left: 10%;
+}
+
+.dropdownText { /* the text that pulls down the dropdown menu on hover:
+	- padding-bottom property separates the text and the menu by 10px */
+	display: block;
+	margin-bottom: 10px;
+}
+
+.dropdownMenu { /* the entire dropdown menu incl. the dropdown text and content:
+	- relatively positioned
+	- padding on top and bottom 10px
+	- pointy cursor! */
+    cursor: pointer;
+    z-index: 4;
+}
+
+.dropdownText { /* the text that pulls down the dropdown menu on hover:
+	- padding-bottom property separates the text and the menu by 10px */
+	display: block;
+	margin-bottom: 10px;
+	margin-left: -10px;
+}
+
+.dropdownMenu { /* the entire dropdown menu incl. the dropdown text and content:
+	- relatively positioned
+	- padding on top and bottom 10px
+	- pointy cursor! */
+    position: relative;
+    width: 250px;
+    padding: 2%;
+
+    z-index: 4;
+}
+
+ol {
+	margin-left: 0;
+	list-style-type: lower-roman;
+}
+
+/* Bro just to let you know these things are multiples of 48 because life sucks */
+
+.dropdownMenu-introduction:hover .dropdownContent {
+    height: 96px;
+}
+
+.dropdownMenu-fieldguide:hover .dropdownContent {
+    height: 336px;
+}
+
+.dropdownMenu-writing:hover .dropdownContent {
+    height: 432px;
+}
+
+.dropdownMenu-typesetting:hover .dropdownContent {
+    height: 144px;
+}
+
+.dropdownMenu-pieces:hover .dropdownContent {
+    height: 336px;
+}
+
+.dropdownContent { /* dropdown content:
+	- absolutely positioned underneath the text
+	- also there's a slight box shadow to add dimension
+	- the menu background is slightly opaque, thinking of changing to translucency but it's probably not worth the effort */\
+    min-width: 250px;
+    box-shadow: 3px 8px 16px rgba(0,0,0,0.2);
+    background-color: rgba(255,  255,  255, 0.95);
+    
+    margin-left: -10px;
+
+    z-index: 3;
+
+    overflow: hidden;
+    height: 0; /* this sets the height to 0, invisible, until hover. below this is just a bunch of stuff for different browsers. */
+    -webkit-transition:height 200ms ease-in;
+    -moz-transition:height 200ms ease-in;
+    -o-transition:height 200ms ease-in;
+    transition:height 200ms ease-in;
+}
+
+.dropdownContent ul { /* cancels out effects of dropdown content being listed by ul, which is great semantically but not stylistically */
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dropdownLink { /* re: dropdown link text specifically, a lot of which is changed in the following css */
+
+}
+
+.dropdownContent li a { /* look of individual links:
+	- the link text is black, otherwise it'd be blue because all other links are blue
+	- is padded on all sides by 15px
+	- the "display: block;" is necessary for some reason, probably just converts all the links to blocks instead of inline?? */
+    display: block;
+    padding: 15px;
+
+    color: #000;
+    text-decoration: none;
+}
+
+.dropdownContent li a:hover { /* look of hovered link in menu:
+	- background color is blue and the font changes to white */
+    background-color: #1c5c72;
+    color: white;
+}
+
