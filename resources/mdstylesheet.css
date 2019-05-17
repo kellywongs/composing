@@ -1,0 +1,27 @@
+#bodyStuff {
+	margin: 10%;
+	max-width: 700px;
+}
+
+.footnote a[alt]:hover:after, span[alt]:hover:after { /*TODO: Fix this lmao */
+	content: attr(alt);
+	position: absolute;
+	
+	margin-top: -20px;
+	margin-left: 0px;
+	
+	font-family: helvetica neue;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 130%;
+	text-align: left;
+	
+	color: #5b5b5b;
+	
+	max-width: 200px;
+	
+	background-color: #fffbb0;
+	padding: 3px 6px;
+	border: 1px dotted black;
+}
