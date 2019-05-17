@@ -40,9 +40,9 @@ Table of Contents:
 
 ---------------
 
-## <a name="introduction"</a> i. Introduction
+## <a name="introduction"></a> i. Introduction
 
-#### <a name="introduction-preface"</a> a. Preface
+#### <a name="introduction-preface"></a> a. Preface
 
 First of all, I'd like to extend my dearest condolences to anyone who happens upon this manual. It may be too abstract for the seeker of practical knowledge; it may be too preoccupied with the strings for use of those from the concert band sphere. [^hindemith] To avoid losing anyone, I'll do my best to tread the line between enthusiastically expounding on a topic and drowning in poeticisms. This should ultimately be accessible to all audiences, regardless of previous musical knowledge or any predisposition towards a certain instrument grouping.
 
@@ -64,7 +64,7 @@ Finally, *in the event* that you're none of these people (or someone to whom I e
 [^lacroix]: or just La Croix in general tbh
 
 
-#### <a name="introduction-contents"</a> b. Contents Held Forthwith
+#### <a name="introduction-contents"></a> b. Contents Held Forthwith
 
 Hello. You're all back. Let's continue, then!
 
@@ -82,15 +82,15 @@ To close, there's some last words on how to get your piece played here at CHS an
 [^especially]: especially for violists
 
 
-## <a name="fieldguide"</a> ii. A Field Guide to the Orchestra
+## <a name="fieldguide"></a> ii. A Field Guide to the Orchestra
 
-#### <a name="fieldguide-introduction"</a> a. Introduction
+#### <a name="fieldguide-introduction"></a> a. Introduction
 
 I find that everyone has an instrumental ‘vibe' to them—some aspects of their being that match, occasionally to humorous effect, the personality and timbre of a certain instrument. The culture in a trumpet section is dramatically different than that of a violin I section, due in no small part to the nature of the instruments themselves. Obviously, the personality stereotypes associated with each section are neither definitive nor concrete, as musicians hail from all walks of life and all temperaments; however, I maintain that there are salient characteristics in each instrument to which a certain brand of person is attracted, and anyways it's really fun to try and explicate orchestra culture, so here we are. 
 
 We'll take a look into the personalities associated with each instrument for a little bit before we dive into the purpose of such (and there is an actual purpose for stereotyping people)--how to orchestrate for each and take advantage of their unique speaking styles. At the end of each section, I'll have a couple pointers on practical considerations regarding ranges and articulation limits and such, with special focus on the abilities of ensembles here at Carmel High. It's gonna be a fat section here, so hold on tight. We'll start our tour in the ensemble that I'm the most intimately familiar with, and save the kazoos for the end.
 
-#### <a name="fieldguide-explanations"</a> b. Explanations
+#### <a name="fieldguide-explanations"></a> b. Explanations
 
 Before we really get started, I should probably explain some of the dichotomies I've used to loosely define every section on my massive moral alignment chart. This whole personality measurement started out as a joke to measure people, but eventually I realized that the stratifications could be easily extrapolated towards instruments.
 
