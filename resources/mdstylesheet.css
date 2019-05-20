@@ -3,7 +3,7 @@
 	max-width: 700px;
 }
 
-.footnote a[alt]:hover:after, span[alt]:hover:after { /*TODO: Fix this lmao */
+.footnote[alt]:hover:after, span[alt]:hover:after { /*TODO: Fix this lmao */
 	content: attr(alt);
 	position: absolute;
 	
