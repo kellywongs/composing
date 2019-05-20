@@ -103,104 +103,236 @@ There is, in fact, a purpose for such partitioning, humor and rehearsal boredom 
 
 ### b. Explanations
 
-**Before we really get started,** though, I should probably explain some of the dichotomies I've used to loosely define every section on my massive moral alignment chart. This whole personality measurement started out as a joke to measure people, but eventually I realized that the stratifications could be easily extrapolated towards instruments.
+**Before we really get started,** though, I should probably explain some of the dichotomies I've used to loosely define every section on my massive moral alignment chart. I've created[^created] a seven-dimensional chart to roughly categorize instruments by instrumental strength, orchestral role, and quality of timbre.
+
+| moral alignment chart | [lawful/<br>chaotic](#lawful-vs-chaotic) | [cronchy/<br>wet](#cronchy-vs-wet) | [coarse/<br>majestic](#coarse-vs-majestic) | [capitalist/<br>communist](#capitalist-vs-communist) | [authoritarian/<br>liberal](#authoritarian-vs-liberal) | [strong/<br>weak](#strong-vs-weak) | [good/<br>evil](#good-vs-evil) |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| violin i | lawful | wet | majestic | capitalist | authoritarian | strong | good |
+| viola | chaotic | cronchy | majestic | communsit | liberal | weak | good |
+| flute | lawful | wet | majestic | capitalist | authoritarian | weak | good |
+| trumpet | chaotic | cronchy | majestic | communist | authoritarian | strong | good |
+| fire extinguisher | chaotic | cronchy | coarse | communist | liberal | strong | evil |
+
+*Figure ii.b.1: An example morality chart for select instruments across the orchestra.*
+
+[^created]: This whole personality measurement started out as a joke to measure people, which revealed some pretty interesting stratifications across political and personality lines. I am, for example, *chaotic cronchy majestic communist strong liberal good*; I share this personality type with Harrison Bolton and Deckelmann. Handley is *lawful wet majestic communist strong authoritarian good*. Grummon was *chaotic cronchy majestic communist strong*est* liberal good*. Teachers tend to be more lawful and authoritarian than students, of whom a majority are chaotic communist liberals.
 
 #### Lawful vs. Chaotic:
+##### Stop! You're under a rest!
+
+> *Lawful instruments:* violin i/ii, cello, flute, oboe, english horn, bassoon, contrabassoon, french horn, timpani, triangle, mallet instruments, piano, bass, voice
+
+> *Chaotic instruments:* violin iii, viola, contrabass, piccolo, clarinet, saxophone, trumpet, trombone, tuba, euphonium, drums, bongos, fire extinguisher, guitar, recorder, kazoo, melodica
 
 **Lawful** describes the overall ability of the instrument to create an orthodox, orderly tone. Instruments that fall on this side of the continuum have a reputation of making sense, being pleasing to the ear, and having a calmness to their timbre. They frequently have leadership positions within the orchestra and often suffer from some degree of orchestral politics. [Flutists](#flutes) and [first violinists](#violins) are, by nature, more lawful than [trombonists](#trombones) and [violists](#violas).
 
-**Chaotic** instruments are freer to experiment, produce a wilder sound, and are encouraged—by temperament or by section—to rebel in what ways they can. Their tonal qualities are more unusual than that of the lawful instruments. They fall into two extremes: those whose sound is inherently piercing (as in the case with the [piccolos](#piccolos) and [oboes](#oboes)), and those whose stereotype of demureness encourages memery within the section ([contrabass](#basses) and [clarinets](#clarinets)). Historically, they may have been sidelined in the orchestra in favor of their more palatable counterparts.[^violas]
+**Chaotic** instruments are freer to experiment, produce a wilder sound, and are encouraged—by temperament or by section—to rebel in what ways they can. Their tonal qualities are more unusual than that of the lawful instruments. They fall into two extremes: those whose sound is inherently piercing (as in the case with the [piccolos](#piccolos) and [oboes](#oboes)), and those whose stereotype of demureness encourages memery within the section ([contrabass](#basses) and [clarinets](#clarinets)). Historically, they may have been sidelined in the orchestra in favor of their more palatable counterparts.
 
-On both ends, modern composers have started pushing the limits of the tones that these instruments can produce, discarding orthodoxy in favor of screaming clarinet solos[^rhapsody] and spicy viola chords[^schwanendreher]. It’s glorious.
-
-
-#### Cronchy vs. Wet:
-
-Here we’re getting into specific tonalities. An instrument rated cronchy produces a sterner, sharper sound than one rated wet. **Cronchiness** correlates with, but does not cause, the general disagreeableness of an instrument’s sound; **wetness** can easily lead to a flabby, weak tone if not harnessed properly by its player. When used correctly, both voices are crucial in an orchestra for blend and pizazz in their own right—cronchy instruments have a more distinct voice than wet instruments, but wet instruments are aural emollients. Contrast a [saxophone](#saxophones) with a [flute](#flutes), or a contrabass with a [violin](#violins).
-
-#### Coarse vs. Majestic:
-
-Along similar lines, a **majestic** instrument is thought of as being noble and soaring, billowy and brassy. **Coarse** instruments are rougher-voiced and more boisterous, dirty and jazzy and grounded. Take note that cronchy instruments (sterner and harder) are not necessarily coarse (exciting and filthy), and wet (smooth and edible) instruments will not always be majestic (clean and pompous). The [trumpets](#violas) are a notable example of an instrument that is both cronchy and majestic. There are fewer instruments that are wet and coarse, capable of slick dirtiness and easily-digestible jazz, but they exist— [clarinet](#clarinets) and [guitar](#guitars) come to mind.
-
-#### Capitalist vs. Communist:
-
-This is more of a culture-specific descriptor than anything to do with tonality. **Capitalist** sections are more political and hierarchical than **communist** sections, which tend to be much more laid-back in terms of seat placement and part assignment. In general, capitalism and communism correlate strongly with lawfulness/chaoticness and authoritarianism/liberalism (which we’ll discuss shortly).
-
-#### Authoritarian vs. Liberal:
-
-Describing something very similar to capitalism/communism, authoritarianism/liberalism rates the roles that a section tends to take in a piece (instead of the roles they take in an orchestra, as with capitalism/communism). **Authoritarian** instruments frequently dominate the tonal conversation through their range, timbre, and volume. They take prominent melodic lines in orchestration and rarely play second fiddle (haha) to their more liberal counterparts.
-
-**Liberal** instruments
-
-#### Strong vs. Weak:
-
-#### Good vs. Evil:
-
-
-[^violas]: violas
+On both ends, modern composers have started pushing the limits of the tones that these instruments can produce, discarding orthodoxy in favor of screaming clarinet solos[^rhapsody] and spicy viola chords.[^schwanendreher] It’s glorious.
 
 [^rhapsody]: Gershwin: Rhapsody in Blue
 
 [^schwanendreher]: Hindemith: Der Schwanendreher
 
+TODO: fill these out
+
+#### Cronchy vs. Wet:
+##### Moistness of temperament
+
+> *Cronchy instruments:* violin ii/iii, viola, contrabass, piccolo, oboe, contrabassoon, saxophone, trumpet, trombone, tuba, euphonium, percussion, drums, triangle, bongos, fire extinguisher, tambourine, bass, kazoos
+
+> *Wet instruments:* violin i, cello, flute, clarinet, english horn, bassoon, french horn, timpani, piano, guitar, voice, recorder, melodica, xylophone, marimba
+
+Here we’re getting into specific tonalities. An instrument rated *cronchy* produces a sterner, sharper sound than one rated *wet*. **Cronchiness** correlates with, but does not cause, the general disagreeableness of an instrument’s sound; **wetness** can easily lead to a flabby, weak tone if not harnessed properly by its player. Young musicians are prone to being victims of an instrument's inherent cronchiness or wetness.
+
+When used correctly, both voices are crucial in an orchestra for blend and pizazz in their own right—*cronchy* instruments have a more distinct voice than wet instruments, but *wet* instruments are aural emollients. Contrast a [saxophone](#saxophones) with a [flute](#flutes), or a contrabass with a [violin](#violins).
+
+#### Coarse vs. Majestic:
+##### Shaken or stirred?
+
+> *Coarse instruments:* violin ii/iii, contrabass, piccolo, trombone, percussion, drums, bongos, fire extinguisher, guitar, recorder, kazoo, melodica, xylophone
+
+> *Majestic instruments:* violin i, viola, cello, flute, clarinet, oboe, english horn, bassoon, contrabassoon, saxophone, trumpet, french horn, timpani, triangle, tambourine, piano, bass, voice, marimba, glockenspiel
+
+Along similar lines, a **majestic** instrument is thought of as being noble and soaring, billowy and brassy. **Coarse** instruments are rougher-voiced and more boisterous, dirty and jazzy and grounded. Take note that *cronchy* instruments (sterner and harder) are not necessarily *coarse* (exciting and filthy), and *wet* (smooth and edible) instruments will not always be *majestic* (clean and pompous). The [trumpets](#violas) are a notable example of an instrument that is both *cronchy* and *majestic.* There are fewer instruments that are *wet* and *coarse,* capable of slick dirtiness and easily-digestible jazz, but they exist—[clarinet](#clarinets) and [guitar](#guitars) come to mind.
+
+#### Capitalist vs. Communist:
+##### How many solos you want
+
+> *Capitalist instruments:* violin i/ii, cello, flute, piccolo, clarinet, oboe, english horn, french horn, piano, voice, melodica
+
+> *Communist instruments:* violin iii, viola, contrabass, bassoon, contrabassoon, saxophone, trumpet, trombone, tuba, euphonium, guitar, bass, recorder, kazoo
+
+This is more of a culture-specific descriptor than anything to do with tonality. **Capitalist** sections are more political and hierarchical than **communist** sections, which tend to be much more laid-back in terms of seat placement and part assignment. The string and wind sections are more susceptible to capitalism than the brass sections; [violas](#violas) and [bassoons](#bassoons) are notable exceptions.
+
+In general, *capitalism* and *communism* correlate strongly with *lawfulness/chaoticness* and *authoritarianism/liberalism* (which we’ll discuss shortly). I've omitted most percussion instruments from this listing because they don't really have seat politics.[^seats]
+
+[^seats]: Because they stand.
+
+#### Authoritarian vs. Liberal:
+##### How many solos you get
+
+> *Authoritarian instruments:* violin i/ii, cello, flute, piccolo, oboe, contrabassoon, trumpet, trombone, tuba, drums, timpani, triangle, piano, voice, recorder, kazoo, melodica
+
+> *Liberal instruments:* violin iii, viola, contrabass, clarinet, english horn, bassoon, saxophone, french horn, euphonium, percussion, bongos, fire extinguisher, tambourine, guitar, bass, mallet instruments
+
+Describing something very similar to *capitalism/communism,* *authoritarianism/liberalism* rates the roles that a section tends to take in a piece (instead of the roles they take in an orchestra, as with capitalism/communism). **Authoritarian** instruments frequently dominate the tonal conversation through their range, timbre, and volume. They take prominent melodic lines in orchestration and rarely play second fiddle (haha) to their more *liberal* counterparts. Every section has a particularly *authoritarian* player to whom the other parts look for guidance: [violins](#violins) in the strings, [oboe](#oboes) and [flute](#flutes) in the winds, [trumpets](#trumpets) in the brass.
+
+**Liberal** instruments are the opposite. They generally play the supporting roles in instrumental compositions, owing to their mellow timbres and less extreme ranges. Solos are rarely divvied out to these guys, having been relegated largely to harmonies and atmosphere.[^fifthyesterday] This can be a point of resentment for many a [viola](#violas) or [horn](#french-horns) player; however, the reality is that the orchestra cannot function without these players to glue the rest of the authoritarians together.
+
+[^fifthyesterday]: I went to a performance of [Beethoven's 5th](https://www.youtube.com/watch?v=olMPeiqoiic) yesterday. It reminded me of Beethoven's habit of letting the violas introduce a new melodic theme by themselves, and then subsequently making them play a tremelo or some ridiculous triplet run while the rest of the orchestra had fun playing the themes themselves.
+
+#### Strong vs. Weak:
+##### A measure of physical strength
+
+> *Strong instruments:* violin i, cello, contrabass, piccolo, oboe, saxophone, trumpet, trombone, tuba, euphonium, percussion, drums, timpani, triangle, bongos, fire extinguisher, guitar, kazoo, xylophone, glockenspiel
+
+> *Weak instruments:* violin ii/iii, viola, flute, clarinet, english horn, bassoon, contrabassoon, french horn, tambourine, bass, voice, recorder, melodica, marimba
+
+ Though *authoritarianism/liberalism* deals with how prominent each instrument's melodic lines are, *strong/weak* describes how easy it is to shout over these lines. In other words, it deals with sheer volume and acoustic efficiency. **Strong** instruments have an ability to project across a concert hall because of their physical design ([cellos](#cellos) and [trombones](#trombones)). It follows that **weak** instruments do not ([clarinets](#clarinets) and [french horns](#french-horns)).
+
+As with some of the other classifications, the *authoritarianism* of an instrument does not necessarily lead to its *strength*. The [flute](#flutes) is an example of such an instrument: it has a piercing and *authoritarian* timbre, but its *wet majesty* ultimately leads to its overall *weakness* in the face of a whole symphony.
+
+#### Good vs. Evil:
+##### Are you a piccolo or not
+
+> *Good instruments:* violin i/ii/iii, viola, cello, flute, clarinet, oboe, english horn, bassoon, saxophone, trumpet, french horn, tuba, euphonium, timpani, piano, melodica, mallet Instruments
+
+> *Evil instruments:* contrabass, piccolo, contrabassoon, trombone, sousaphone, percussion, drums, fire extinguisher, triangle, bongos, tambourine, guitar, bass, voice, recorder, kazoo
+
+Our final personality trope is *good vs. evil.* It's a remnant of the original human morality chart that stratified people across temperamental lines. As nebulous as evil is to define among humans, it's doubly difficult to apply it to instruments, through whom we speak.
+
+So what *does* it mean?
+
+**Evil** instruments are those who find it easy to disrupt the peace of a piece, so to speak. A combination of their *cronchiness, authoritarianism,* and *strength*--cacophony, timbre, and volume--allows whatever they do to soar over the rest of the orchestra and easily derail any endeavor. It doesn't matter how loudly people are noodling in a practice hall: the smallest sound from an evil instrument bounces around in your brain for hours. Notable offenders are [basses](#contrabasses) and [piccolos](#piccolos).
+
+**Good** instruments tend to contribute to the euphony of the larger group. Though leadership disposition (via *lawfulness*) influences this considerably, the larger variables are their *wetness, majesty,* and *liberalism*. Any one of these qualities makes it difficult to be evil, simply because they cannot be loud or disruptive enough. The quintessential *good* instrument is the [bassoon](#bassoons), for its sextuple-whammy lawful-wet-majestic-communist-liberal-weak personality type.
+
 ### c. Strings
 
 | strings |   *an overview*          |
-| ---          |                 ---          |
+| ---  |  |
 | members | 4 - [violins](#violins) (i, ii, we don’t talk about iii); [violas](#violas); [cellos](#cellos); [contrabasses](#basses)
 | strengths | adaptability, emotion, romance, evenness, drama, filler, playing for long periods of time without tiring, being able to eat while playing, adapting to intonation changes as a big group |
-| weaknesses | can't play without vibrato, purity of tone, can't fake things, intonation in small settings, irregular runs |
+| weaknesses | playing without vibrato, purity of tone, faking things, intonation in small settings, irregularly-shaped runs |
 | dynamics | *pppp* to *fff* |
-| techniques | bowing, vibrato, harmonics, pizzicato, martele, marcato, col legno, glissando/portamento, sul tasto/sul ponticello |
+
 *Figure ii.c.1: An overview of the string section.*
+
+**I don’t want to sound biased,** but the string section as a whole is unrivaled in terms of emotional flexibility, range of coloration, and pyrotechnic capability.[^flex] From the pared-down harmonies of a string quartet to the expansive lushness of a string orchestra, string players are capable of producing almost any imaginable sound. Of course, they need their brass and wind colleagues to add the spark and extremes of emotions that the strings just can’t produce on their own, but for the most part their capability for diversity and dynamism makes them a compelling choice for pretty much any ensemble. It's why they're ubiquitous in the concert music world, and why you can never seem to get away from those with colorful BAM cases strapped to their backs.
 
 | moral alignment chart | [lawful/<br>chaotic](#lawful-vs-chaotic) | [cronchy/<br>wet](#cronchy-vs-wet) | [coarse/<br>majestic](#coarse-vs-majestic) | [capitalist/<br>communist](#capitalist-vs-communist) | [authoritarian/<br>liberal](#authoritarian-vs-liberal) | [strong/<br>weak](#strong-vs-weak) | [good/<br>evil](#good-vs-evil) |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | violin i | lawful | wet | majestic | capitalist | authoritarian | strong | good |
-| violin ii | lawful | cronchy | coarse | capitalist | authoritarian | weak | evil |
-| violin iii | chaotic | cronchy | coarse | communist | authoritarian | weak | evil |
+| violin ii | lawful | cronchy | coarse | capitalist | authoritarian | weak | good |
+| violin iii | chaotic | cronchy | coarse | communist | liberal | weak | good |
 | viola | chaotic | cronchy | majestic | communist | liberal | weak | good |
 | cello | lawful | wet | majestic | capitalist | authoritarian | strong | good |
 | contrabass | chaotic | cronchy | coarse | communist | liberal | strong | evil |
+
 *Figure ii.c.2: String section moral alignment chart. Note the near-identical political alignments of the Violin I and Cello sections; contrast this with the dramatic differences between, but fundamental shared weaknesses of, Violin II and Viola.*
 
-**I don’t want to sound biased,** but the string section as a whole is unrivaled in terms of emotional flexibility, range of coloration, and pyrotechnic capability.[^flex]  From the pared-down harmonies of a string quartet to the expansive lushness of a string orchestra, string players are capable of producing almost any imaginable sound. Of course, they need their brass and wind colleagues to add the spark and extremes of emotions that the strings just can’t produce on their own, but for the most part their capability for diversity and dynamism makes them a compelling choice for almost any ensemble.
+You’ll notice that the above political alignment chart can’t seem to fit the string section across any dichotomy. Overall, they’re neither lawful nor chaotic, majestic nor coarse; they can’t even decide if they’re good or evil. In music, similarly, the strings play every imaginable role and sing every imaginable part. They’re particularly good at swells of power, saccharine-sweet passages, and mediating the field of timbres between the other members of the symphony. Their primary weaknesses, especially at a younger age, are an inability to play without vibrato (to produce a pure tone of a quality akin to that of the horns--it's technically possible, but no one wants to acknowledge it) and a general abundance of schmultz.
 
-You’ll notice that the above political alignment chart can’t seem to fit the string section across any dichotomy. Overall, they’re neither lawful nor chaotic, majestic nor coarse; they can’t even decide if they’re good or evil. In music, similarly, the strings play every imaginable role and sing every imaginable part. They’re particularly good at swells of power, saccharine-sweet passages, and mediating the field of timbres between the other members of the symphony. Their primary weaknesses, especially at a younger age, are an inability to play without vibrato—to collectively produce a pure tone akin to that of the horns, which is theoretically possible—and a general abundance of schmultz.
-
-The melodies that bounce around in my head are translated into the diverse language of a string orchestra first and foremost—bubbly pizzicatos, ghostly *col legno* passages, the intense visual spectacle of an orchestra lifting their bows at the same time. In the last couple of months, I’ve gotten better at assigning parts to wind and brass instruments, but it remains that the techniques known to string players are the ones that I imagine most often.
+We'll get into the specifics of writing for extended [string technique](#string-technique), but first, let's talk about why we're so insufferable and why you can't live without us.
 
 [^flex]: The latter flex can also be taken quite literally if necessary.
 
 #### violins
 
-| moral alignment chart | [lawful/<br>chaotic](#lawful-vs-chaotic) | [cronchy/<br>wet](#cronchy-vs-wet) | [coarse/<br>majestic](#coarse-vs-majestic) | [capitalist/<br>communist](#capitalist-vs-communist) | [authoritarian/<br>liberal](#authoritarian-vs-liberal) | [strong/<br>weak](#strong-vs-weak) | [good/<br>evil](#good-vs-evil) |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| violin i | lawful | wet | majestic | capitalist | authoritarian | strong | good |
-| violin ii | lawful | cronchy | coarse | capitalist | authoritarian | weak | evil |
-| violin iii | chaotic | cronchy | coarse | communist | authoritarian | weak | evil |
+| violins | *an overview* |
+| ---  |  |
+| high range | brilliant, volatile, crystalline |
+| middle range | schmultzy, sweet, focused |
+| low range | dramatic, wild, startling |
+| major weakness | not playing each other's solos |
+| range | G3--A7 |
+| dynamics | *pppp* to *ff* |
+| clefs | treble, in C |
+| tuning | G3 D4 A4 E5 |
 
-*Figure ii.c.3: A moral alignment chart for all  possible violin sections.*
+*Figure ii.c.3: An overview of the violin section. Their maximum volume is *ff*, not the *fff* that the larger orchestra is capable of.*
 
 ##### i. personality
 
+| moral alignment chart | [lawful/<br>chaotic](#lawful-vs-chaotic) | [cronchy/<br>wet](#cronchy-vs-wet) | [coarse/<br>majestic](#coarse-vs-majestic) | [capitalist/<br>communist](#capitalist-vs-communist) | [authoritarian/<br>liberal](#authoritarian-vs-liberal) | [strong/<br>weak](#strong-vs-weak) | [good/<br>evil](#good-vs-evil) |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| violin i | lawful | wet | majestic | capitalist | authoritarian | strong | good |
+| violin ii | lawful | cronchy | coarse | capitalist | authoritarian | weak | good |
+| violin iii | chaotic | cronchy | coarse | communist | liberal | weak | good |
+
+*Figure ii.c.4: A moral alignment chart for all the violin sections. All three are ultimately good, but Violin I and III are fundamentally different in every other way.*
+
 **You may be a violinist** if you’re slightly fragile, moderately self-deprecating, and have extreme reactions to caffeine. There are generally two divisions of violinists in any orchestra, the violins I and II; occasionally (with Bach and distrustful grade-school arrangers in equal measure) you get a violin III section. No one likes talking about the violin IIIs, but it’s a section nevertheless, so as it stands we’ve got ourselves three very diverse personality types on one instrument.
+
+> Violin I: lawful wet majestic capitalist authoritarian strong good
 
 ***First violinists:*** First violinists often fall into two physical archetypes, both of which seem so well-suited to the instrument that it may as well be destiny.
 
-Archetype the first: spindly and proportionally fluffy, enamored with dank memes, an Android user; they’re relaxed until they’re not, after which they’re stormy and melodramatic like a Beethoven middle movement incarnate. Whether they’re comfortable discussing their chair placement varies wildly on a day-to-day basis, but as with most first violinists, it’s best to leave this question a wide berth.
+*Archetype the first:* spindly and long, enamored with dank memes, an Android user; they’re relaxed until they’re not, after which they’re stormy and melodramatic like a Beethoven middle movement incarnate.[^beethoven6] Whether they’re comfortable discussing their chair placement varies wildly on a day-to-day basis, but as with most first violinists, it’s best to leave this question a wide berth. These are more common in the chamber music arena than the second type, which can more easily be found in the symphony orchestra,
 
-The second type of first violinist is small enough to bunch up their legs when they play. They’re easily angered and are invariably in a higher math class than you. (This kind has an iPhone and an infrequently-updated Snapchat account.) They’re into memes, too, but they’re of the purer variety—they are, after all, cat people. This type is the kind to drink three espresso shots as part of their morning routine, and then show up at rehearsal buzzing with frenetic energy.
+*The second type* of first violinist is small enough to bunch up their legs when they play. They’re easily angered and are invariably in a higher math class than you. (This kind has an iPhone and an infrequently-updated Snapchat account.) They’re into memes, too, but they’re of the purer variety—they are, after all, cat people. This type is the kind to drink three espresso shots as part of their morning routine, and then show up at rehearsal buzzing with frenetic energy.
 
-How many AP classes these kids take typically has an inverse relationship with how much they care about being concertmaster, but take care to exercise caution regardless; nowhere are the first-chair politics more cutthroat than in the first violin section.
+How many AP classes these kids take typically has an inverse relationship with how much they care about being concertmaster, but take care to exercise caution regardless; nowhere are the first-chair politics more cutthroat than in the first violin section. Their lawfulness
 
-***Second violinists:*** We come across more diversity and relaxation as we move left, entering the realm of the second violinists.
+> Violin II: lawful cronchy coarse capitalist authoritarian weak good
+
+***Second violinists:*** We come across more diversity and relaxation as we move left, entering the realm of the second violinists. The second violinists I've known in the orchestra are quiet, studious, but fountains of wit if you ask them any questions. It's the perennial curse of youth orchestras that the more inexperienced players are relegated to this section, so often they'll have less confidence and bombast than their first violin counterparts. On the flip side, they're easily the section that's genuinely trying the hardest. They understand and appreciate their role as supporters for first violin antics, and indeed they often meet *solis* with a degree of confusion.
+
+These descriptions apply to career second violinists. In smaller ensembles (like pit orchestras and string quartets), the Violin II section tend to be drawn from the pool of available Violin I players because of their experience with the world of solos and exposed parts; in these cases, they are not truly second violinists.
+
+> Violin III: chaotic cronchy coarse communist liberal weak good
+
+##### ii. musicianship
+
+>
+
+[^beethoven6]: [Beethoven: Symphony No. 6, 'Pastorale,'](https://youtu.be/fRg0K5rgXog?t=1872) IV: Allegro -- Sturm. This is the only movement with a timpani part. When we played this with the Monterey Symphony, the timpanist was taking a nap backstage during the (admittedly quite long) first three movements and forgot to come back for this one. I didn't notice because I was too busy trying to hang with the intense tremelo that Beethoven asks of you, but apparently it was quite catastrophic. (Also, fun fact--this was the first piece of serious music I ever played. It was quite an exercise in exposure therapy, I'll say that much.)
 
 #### violas
 
+| violas | *an overview* |
+| ---  |  |
+| high range | yearning, tight, strained |
+| middle range | creamy, velvety, mellow |
+| low range | chocolaty, rich, unostentatious |
+| major weakness | dealing with rejection from composers |
+| range | C3--E6 |
+| dynamics | *pppp* to *ff* |
+| clefs | alto-treble, in C |
+| tuning | C3 G3 D4 A4 |
+
 #### cellos
 
+| cellos | *an overview* |
+| ---  |  |
+| high range | soaring, romantic, tense |
+| middle range | narrow, focused, relentless |
+| low range | sonorous, relaxed, rumbling |
+| major weakness |  |
+| range | C2--C6 |
+| dynamics | *ppp* to *fff* |
+| clefs | bass-tenor-treble, in C |
+| tuning | C2 G2 D3 A3 |
+
 #### basses
+
+| cellos | *an overview* |
+| ---  |  |
+| high range | ghostly, alien, improbable |
+| middle range | supportive, humorous, modest |
+| low range | growling, slow to speak, muted |
+| major weakness | moving quickly |
+| range | C1--C4 |
+| dynamics | *pp* to *ff* |
+| clefs | bass-tenor-treble, in C |
+| tuning | E1 A1 D2 G2 |
+
+#### string technique
+
+| techniques | bowing, vibrato, harmonics, pizzicato, martele, marcato, col legno, glissando/portamento, sul tasto/sul ponticello, double stops |
+
+The melodies that bounce around in my head are translated into the diverse language of a string orchestra first and foremost—bubbly pizzicatos, ghostly *col legnos*, the intense visual spectacle of an orchestra lifting their bows at the same time.
 
 ### d. Winds
 

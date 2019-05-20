@@ -1,4 +1,4 @@
-#bodyStuff {
+body {
 	margin: 10%;
 	max-width: 700px;
 	font-family: roboto, helvetica neue, sans-serif;
@@ -20,7 +20,7 @@
 	color: #5b5b5b;
 
 	max-width: 200px;
-	
+
 	background-color: #fffbb0;
 	padding: 3px 6px;
 	border: 1px dotted black;
