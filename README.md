@@ -273,15 +273,17 @@ We'll get into the specifics of writing for extended [string technique](#string-
 
 *The second type* of first violinist is small enough to bunch up their legs when they play. They’re easily angered and are invariably in a higher math class than you. (This kind has an iPhone and an infrequently-updated Snapchat account.) They’re into memes, too, but they’re of the purer variety—they are, after all, cat people. This type is the kind to drink three espresso shots as part of their morning routine, and then show up at rehearsal buzzing with frenetic energy.
 
-How many AP classes these kids take typically has an inverse relationship with how much they care about being concertmaster, but take care to exercise caution regardless; nowhere are the first-chair politics more cutthroat than in the first violin section. Their lawfulness
+How many AP classes these kids take typically has an inverse relationship with how much they care about being concertmaster, but take care to exercise caution regardless; nowhere are the first-chair politics more cutthroat than in the first violin section.
 
 > Violin II: lawful cronchy coarse capitalist authoritarian weak good
 
 ***Second violinists:*** We come across more diversity and relaxation as we move left, entering the realm of the second violinists. The second violinists I've known in the orchestra are quiet, studious, but fountains of wit if you ask them any questions. It's the perennial curse of youth orchestras that the more inexperienced players are relegated to this section, so often they'll have less confidence and bombast than their first violin counterparts. On the flip side, they're easily the section that's genuinely trying the hardest. They understand and appreciate their role as supporters for first violin antics, and indeed they often meet *solis* with a degree of confusion.
 
-These descriptions apply to career second violinists. In smaller ensembles (like pit orchestras and string quartets), the Violin II section tend to be drawn from the pool of available Violin I players because of their experience with the world of solos and exposed parts; in these cases, they are not truly second violinists.
+These descriptions apply to career second violinists. In smaller ensembles (like pit orchestras and string quartets), the Violin II section tend to be drawn from the pool of available Violin I players because of their experience with the world of solos and exposed parts. In these cases, they are not truly second violinists so much as they are mildly displaced first violinists. The same is true with violinists playing viola, though I'd argue that in both cases there is an observable mellowing of capitalism.
 
 > Violin III: chaotic cronchy coarse communist liberal weak good
+
+***Third violinists:*** There are two areas where violinists beyond the first two sections exist. The first is in the middle school string orchestra setting, where a Violin III part is occasionally added to balance the (generally ill-populated) viola section, or otherwise to give some less experienced violinists a break. The second is in chamber music, including the [Bach Brandenburg Concertos](#TODOLINK).
 
 ##### ii. musicianship
 

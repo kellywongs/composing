@@ -4,6 +4,10 @@ body {
 	font-family: roboto, helvetica neue, sans-serif;
 }
 
+a {
+	color: blue;
+}
+
 .footnote[alt]:hover:after, span[alt]:hover:after { /*TODO: Fix this lmao */
 	content: attr(alt);
 	position: absolute;
