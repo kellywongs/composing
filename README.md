@@ -180,7 +180,7 @@ Describing something very similar to *capitalism/communism,* *authoritarianism/l
 
 **Liberal** instruments are the opposite. They generally play the supporting roles in instrumental compositions, owing to their mellow timbres and less extreme ranges. Solos are rarely divvied out to these guys, having been relegated largely to harmonies and atmosphere.[^fifthyesterday] This can be a point of resentment for many a [viola](#violas) or [horn](#french-horns) player; however, the reality is that the orchestra cannot function without these players to glue the rest of the authoritarians together.
 
-[^fifthyesterday]: I went to a performance of [Beethoven's 5th](https://www.youtube.com/watch?v=olMPeiqoiic) yesterday. It reminded me of Beethoven's habit of letting the violas introduce a new melodic theme by themselves, and then subsequently making them play a tremelo or some ridiculous triplet run while the rest of the orchestra had fun playing the themes themselves.
+[^fifthyesterday]: I went to a performance of [Beethoven's 5th Symphony](https://www.youtube.com/watch?v=olMPeiqoiic) yesterday. (Which yesterday? Idk, look at the commit history.) It reminded me of Beethoven's habit of letting the violas introduce a new melodic theme by themselves, and then subsequently making them play a tremelo or some ridiculous triplet run while the rest of the orchestra had fun playing the themes themselves.
 
 #### Strong vs. Weak:
 ##### A measure of physical strength
@@ -212,7 +212,7 @@ So what *does* it mean?
 
 | strings |   *an overview*          |
 | ---  |  |
-| members | 4 - [violins](#violins) (i, ii, we don’t talk about iii); [violas](#violas); [cellos](#cellos); [contrabasses](#basses)
+| members | [violins](#violins) (i, ii, we don’t talk about iii); [violas](#violas); [cellos](#cellos); [contrabasses](#basses)
 | strengths | adaptability, emotion, romance, evenness, drama, filler, playing for long periods of time without tiring, being able to eat while playing, adapting to intonation changes as a big group |
 | weaknesses | playing without vibrato, purity of tone, faking things, intonation in small settings, irregularly-shaped runs |
 | dynamics | *pppp* to *fff* |
@@ -250,8 +250,13 @@ We'll get into the specifics of writing for extended [string technique](#string-
 | dynamics | *pppp* to *ff* |
 | clefs | treble, in C |
 | tuning | G3 D4 A4 E5 |
+| listen to this! |  *violin solo:* [Vitali: Chaconne in G Minor](https://www.youtube.com/watch?v=i4B1ifcWa9o)[^chaconne] <Br> *concerto:* [Bruch: Violin Concerto No. 1](https://www.youtube.com/watch?v=KDJ6Wbzgy3E&)[^bruchconcerto]
 
-*Figure ii.c.3: An overview of the violin section. Their maximum volume is *ff*, not the *fff* that the larger orchestra is capable of.*
+*Figure ii.c.3: An overview of the violin section. Their maximum volume is* ff, *not the* fff *that the larger orchestra is capable of.*
+
+[^chaconne]: [Vitali: Chaconne in G Minor](https://www.youtube.com/watch?v=i4B1ifcWa9o), played by Oistrakh. This is the piece I think of whenever I talk about the violin's inexorable schmultzyness--sometimes this will come up on my music and I'll swipe it away because I'm really just not in the mood to deal with it. It's undeniably beautiful, though. It's also a great contrast to the second link that I have, which is a concerto played by Hilary Hahn: Oistrach's wild vibrato and portamento is so different from Hahn's crystal-clear purity.
+
+[^bruchconcerto]: [Bruch: Violin Concerto No. 1](https://www.youtube.com/watch?v=KDJ6Wbzgy3E&), played by Hilary Hahn. I don't actually listen to that many violin concertos, but this is one of my favorites because of the pyrotechnics of the violin and [this](https://youtu.be/KDJ6Wbzgy3E?t=408) kickass orchestral beat drop.
 
 ##### i. personality
 
@@ -269,7 +274,7 @@ We'll get into the specifics of writing for extended [string technique](#string-
 
 ***First violinists:*** First violinists often fall into two physical archetypes, both of which seem so well-suited to the instrument that it may as well be destiny.
 
-*Archetype the first:* spindly and long, enamored with dank memes, an Android user; they’re relaxed until they’re not, after which they’re stormy and melodramatic like a Beethoven middle movement incarnate.[^beethoven6] Whether they’re comfortable discussing their chair placement varies wildly on a day-to-day basis, but as with most first violinists, it’s best to leave this question a wide berth. These are more common in the chamber music arena than the second type, which can more easily be found in the symphony orchestra,
+*Archetype the first:* spindly and long, enamored with dank memes, an Android user; they’re relaxed until they’re not, after which they’re stormy and melodramatic like a Beethoven middle movement incarnate ([Beethoven: Symphony No. 6, 'Pastorale,'](https://youtu.be/fRg0K5rgXog?t=1872) IV: Allegro -- Sturm).[^beethoven6] Whether they’re comfortable discussing their chair placement varies wildly on a day-to-day basis, but as with most first violinists, it’s best to leave this question a wide berth. These are more common in the chamber music arena than the second type, which can more easily be found in the symphony orchestra,
 
 *The second type* of first violinist is small enough to bunch up their legs when they play. They’re easily angered and are invariably in a higher math class than you. (This kind has an iPhone and an infrequently-updated Snapchat account.) They’re into memes, too, but they’re of the purer variety—they are, after all, cat people. This type is the kind to drink three espresso shots as part of their morning routine, and then show up at rehearsal buzzing with frenetic energy.
 
@@ -277,19 +282,39 @@ How many AP classes these kids take typically has an inverse relationship with h
 
 > Violin II: lawful cronchy coarse capitalist authoritarian weak good
 
-***Second violinists:*** We come across more diversity and relaxation as we move left, entering the realm of the second violinists. The second violinists I've known in the orchestra are quiet, studious, but fountains of wit if you ask them any questions. It's the perennial curse of youth orchestras that the more inexperienced players are relegated to this section, so often they'll have less confidence and bombast than their first violin counterparts. On the flip side, they're easily the section that's genuinely trying the hardest. They understand and appreciate their role as supporters for first violin antics, and indeed they often meet *solis* with a degree of confusion.
+***Second violinists:*** We come across more diversity and relaxation as we move left, entering the realm of the second violinists. The second violinists I've known in the orchestra are quiet, studious, but fountains of wit if you ask them any questions. A majority of elementary horse girls end up here, for one reason or another. It's the perennial curse of youth orchestras that the more inexperienced players are relegated to this section, so often they'll have less confidence and bombast than their first violin counterparts. On the flip side, they're easily the section that's genuinely trying the hardest. They understand and appreciate their role as supporters for first violin antics. Indeed, they often meet *solis* with a degree of confusion.
 
-These descriptions apply to career second violinists. In smaller ensembles (like pit orchestras and string quartets), the Violin II section tend to be drawn from the pool of available Violin I players because of their experience with the world of solos and exposed parts. In these cases, they are not truly second violinists so much as they are mildly displaced first violinists. The same is true with violinists playing viola, though I'd argue that in both cases there is an observable mellowing of capitalism.
+These descriptions apply to career second violinists. In smaller ensembles (like pit orchestras and string quartets), the Violin II section tend to be drawn from the pool of available Violin I players because of their experience with the world of solos and exposed parts. In these cases, they are not truly second violinists so much as they are mildly displaced first violinists. The same is true with violinists playing viola, though I'd argue that in both cases there is an observable mellowing of [capitalism](#capitalist-vs-communism).
 
 > Violin III: chaotic cronchy coarse communist liberal weak good
 
-***Third violinists:*** There are two areas where violinists beyond the first two sections exist. The first is in the middle school string orchestra setting, where a Violin III part is occasionally added to balance the (generally ill-populated) viola section, or otherwise to give some less experienced violinists a break. The second is in chamber music, including the [Bach Brandenburg Concertos](#TODOLINK).
+***Third violinists:*** Because of their proximity and association with the [viola](#viola) section, the third violin section will be more mellow and [chaotic](#lawful-vs-chaotic) than their peers in the first two sections. That they are now forever stuck on accompaniment is not lost on them, which breeds a small amount of resentment in transplants from Violin I. The overall sentiment of the section leans grudgingly towards [communism](#capitalist-vs-communism), especially among those who are put in Violin III out of necessity rather than orchestration.
 
-##### ii. musicianship
+It is important to note that you will never meet *career* third violinists, but they are ubiquitious in two settings and thus deserve a mention here. The first is in the middle school string orchestra, where a Violin III part is occasionally added to balance the (generally ill-populated) viola section, or otherwise to give some less experienced violinists a break. The second is in music written for large string orchestras, including the [Bach Brandenburg Concertos](#https://www.youtube.com/watch?v=pdsyNwUoON0).[^three] Though third violin sections are typically temporary phenomena, distance from the other violin sections nevertheless speciates them.
 
->
+[^three]: [Bach: Brandenburg Concerto #3](#https://www.youtube.com/watch?v=pdsyNwUoON0). If there are three or more violin parts, you can be sure that there are a couple more viola and cello parts, too. However, since it's generally much rarer to split viola and cello further, the sections never develop a distinct personality and so are omitted from this field guide.)
 
 [^beethoven6]: [Beethoven: Symphony No. 6, 'Pastorale,'](https://youtu.be/fRg0K5rgXog?t=1872) IV: Allegro -- Sturm. This is the only movement with a timpani part. When we played this with the Monterey Symphony, the timpanist was taking a nap backstage during the (admittedly quite long) first three movements and forgot to come back for this one. I didn't notice because I was too busy trying to hang with the intense tremelo that Beethoven asks of you, but apparently it was quite catastrophic. (Also, fun fact--this was the first piece of serious music I ever played. It was quite an exercise in exposure therapy, I'll say that much.)
+
+##### ii. general notes
+
+**Violins, like [cellos](#cellos), are fortunate** in that their instrument's acoustic design is ideal for the range of pitches that it can produce.[^notviolas] Consequently, it's easy to squeeze soaring passages and dramatic vibratos out of these guys. In the right ranges, like those that the first violins frequently splash in, authoritarian violins can command the symphony. If you have a large and sweeping passage that you need to get heard, the violins have a flexibility and vitality that's quite unmatched by the rest of the orchestra.
+
+ In comparison with their high and extremely high ranges, the violin's middle and low ranges can be quite mellow in comparison. (For example, the area around the violin D string can be much less powerful than a viola D string--this is mostly attributed to acoustics and the placement of the D string on the respective instruments.) Experienced violinists will make up for this by playing with a vibrato that will make the tone project more. However, younger string orchestras sometimes have difficulty compensating for this, so the lowest octaves may sound watery and weak. Contrast this with the [cellos](#cellos), whose equivalent octaves (high for cellos, low for violins) are naturally powerful and soaring, with a throaty chest-voice quality.
+
+ But there's an interesting technique that you can play with here, especially when writing for solo violin parts ([Monti: Czardas](https://youtu.be/ZHO6KOPWXtc?t=24)).[^czardas] Specifying higher-octave passages to be on the G string will force players to *portamento,* or glissando, on some interval leaps; vibrato will be dramatically amplified because of the smaller spaces between notes. The result is a wild, taut, gypsy-like sound. Don't overdo it, obviously; it's too theatrical for common usage. But it's breathtaking when executed correctly ([Suppe: Light Cavalry Overture](https://youtu.be/k_XLnFGNhL0?t=245)).[^lightcavalry]
+
+ Whatever you do, take care of the second violins. At Carmel High and many equivalent high school string orchestras, the second violins are where the more inexperienced players are relegated; the back of the second violin section will always be much more unsure of themselves than the back of the first violin section. Though it makes for a charming section, the sound they produce can be weak (i.e. in my senior year at Carmel, we had a couple rehearsals where Handley had to tell our four-person viola section to stop covering the fourteen-person violin II section).
+
+ This is not to say that you should simplify violin II rhythms or harmonic parts. In fact, when writing for orchestras that are like this, consider giving the violin II section more melodic content--if they're confident about what they're playing, and they're not stuck in unfamiliar intervals of harmony with the first violins, they'll project beautifully and produce the trademark Thick Violin Sound.
+
+ (The Thick Violin Sound is a shimmering combination of many  players playing the same passage with mildly different intonations and vibrato speeds. This slight incongruity, when combined with the general unity and homogeneity of the violin sound across all octaves, is what really warms and ties the whole orchestra together. It's absolutely spectacular when everyone's playing in unison or in octaves.)
+
+ Avoid giving out too many differing syncopated rhythms or shying away from predictable patterns. This applies equally to all intermediate string parts, but especially to the second violins, who can be collectively slow to mature because of their relatively younger players. Also, it's just irritating sometimes.
+
+ [^czardas]: [Monti: Czardas](https://youtu.be/ZHO6KOPWXtc?t=24). For a famous example of the usage of *sul g,* as it's called, listen to the beginning of this piece. It's based on a Hungarian dance--a *csárdás*--that begins slow and finishes wildly.
+
+ [^lightcavalry]: [Suppe: Light Cavalry Overture](https://youtu.be/k_XLnFGNhL0?t=245). Here's a piece that uses *sul G* or *sul C* across the orchestra--it can be done! The effect of a whole orchestra sliding up to their notes, playing in unison, is pretty sick. It's rhapsodic and melancholy and also really fun to play. Also you should stay for the kickass trumpet soli right after the passage.
 
 #### violas
 
@@ -297,12 +322,23 @@ These descriptions apply to career second violinists. In smaller ensembles (like
 | ---  |  |
 | high range | yearning, tight, strained |
 | middle range | creamy, velvety, mellow |
-| low range | chocolaty, rich, unostentatious |
+| low range | chocolaty, rich, modest |
 | major weakness | dealing with rejection from composers |
-| range | C3--E6 |
-| dynamics | *pppp* to *ff* |
+| range | C3--A5 |
+| dynamics | *ppp* to *fff* |
 | clefs | alto-treble, in C |
 | tuning | C3 G3 D4 A4 |
+| listen to these! | solo: [Clarke: Sonata for Viola and Piano](https://www.youtube.com/watch?v=kyhWWyDHIfM)[^clarke] <br> concerto: [Hindemith: Viola Concerto](https://www.youtube.com/watch?v=NkFbrUEhSCc)[^hindemithconcerto] |
+
+*Figure ii.c.4: An overview of the viola section. They can't be quiet as violins, but they're capable of being flat-out louder because of their size.*
+
+[^clarke]: [Clarke: Sonata for Viola and Piano](https://www.youtube.com/watch?v=kyhWWyDHIfM). I've played this for about a year now, and I'm sorry to see my passion for it fade over time, but this really is an incredible piece. It starts at about a 110% and just goes up from there. This is what I pull up whenever I'm showing someone that the higher registers on a viola are more yearning and powerful than that of a violin: there's something about it speaks rather than sings. (Hence the [cronchiness](#cronchy-vs-wet).) Clarke enjoys playing with the more extreme harmonic capabilities of the viola, especially in this sonata's alien [second movement](https://youtu.be/kyhWWyDHIfM?t=441).
+
+[^hindemithconcerto]: [Hindemith: Viola Concerto](https://www.youtube.com/watch?v=NkFbrUEhSCc). Devilishly difficult, but just extraordinary in all senses of the word. Some really wack double stops and chords (and fingerings, and pyrotechnics, and techniques, and...). Hindemith understood how to make the viola sing--he starts off this piece with this giant quadruple stop that ends with an E-E octave. Also, the [second movement](https://youtu.be/NkFbrUEhSCc?t=536) begins with a modest and sweet viola/harp duet, and it just really stops you in your tracks. 
+
+##### i. personality
+
+Violists are closest to [high brass](#e-brass) players because of a potent combination of chaotic capability and orchestral responsibility. (Bassists are the string equivalent of the low brass.)
 
 #### cellos
 
@@ -334,23 +370,97 @@ These descriptions apply to career second violinists. In smaller ensembles (like
 
 | techniques | bowing, vibrato, harmonics, pizzicato, martele, marcato, col legno, glissando/portamento, sul tasto/sul ponticello, double stops |
 
-The melodies that bounce around in my head are translated into the diverse language of a string orchestra first and foremost—bubbly pizzicatos, ghostly *col legnos*, the intense visual spectacle of an orchestra lifting their bows at the same time.
+The melodies that bounce around in my head are translated into the diverse language of a string orchestra first and foremost—bubbly pizzicatos, ghostly *col legnos*, the intense visual spectacle of an orchestra lifting their bows at the same time. I'm taking the liberty of addressing all of these at once, because a string orchestra is pretty homogenous in terms of tone production and available techniques.
+
+##### general notes:
+
+Chromaticism comes easily to violins, more so than violas and cellos (who have a larger area in which to make intonation errors). However, it's still inadvisable to give the strings rapid chromatic passages, which will sound muddy and
+
+#####
+
+[^notviolas]: [Violas](#violas) and [basses](#basses) do not share this quality. They're built a couple inches smaller than their ideal lengths because the fully optimized size would be impractical--cue the [octobasse](TODOLINK). As a result, they can sound strangled, like their bodies can't handle the frequencies that the player is trying to wrangle; they do not have the same easy  timbre that violins and cellos enjoy.)
 
 ### d. Winds
 
+| winds |   *an overview*          |
+| ---  |  |
+| members | *principally:* [flutes](#flutes); [clarinets](#clarinets); [oboes](#oboes); [bassoons](#bassoons) <br> *additionally:* [saxophones](#saxophones) <br> *specialty:* [piccolo](#piccolos); [english horn](#oboes); [contrabassoons](#bassoons)
+| strengths | vulnerability,  |
+| weaknesses | playing without vibrato, purity of tone, faking things, intonation in small settings, irregularly-shaped runs |
+| dynamics | *pppp* to *fff* |
+
 #### flutes
+
+| flutes | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
 
 #### piccolos
 
+| piccolos | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
+
 #### clarinets
+
+| clarinets | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
 
 #### oboes
 - english horns
 
+| oboes | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
+
 #### saxophones
+
+| saxophones | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
 
 #### bassoons
 
+| bassoons | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
 ### e. Brass
 
 #### trumpets
