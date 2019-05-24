@@ -93,6 +93,44 @@ To close, there's some **[closing words](#vi-closing-words)** on the best resour
 
 ## ii. A Field Guide to the Orchestra
 
+1. Introduction
+2. [Explanations](#explanations)
+	1. [Lawful vs. Chaotic](#lawful-vs-chaotic)
+	2. [Cronchy vs. Wet](#cronchy-vs-wet)
+	2. [Coarse vs. Majestic](#coarse-vs-majestic)
+	2. [Capitalist vs. Communist](#capitalist-vs-communist)
+	2. [Authoritarian vs. Liberal](#authoritarian-vs-liberal)
+	2. [Strong vs. Weak](#strong-vs-weak)
+	2. [Good vs. Evil](#good-vs-evil)
+3. [Strings](#c-strings)
+ 	1. [Violins](#violins)
+	3. [Violas](#violas)
+	3. [Cellos](#cellos)
+	3. [Basses](#basses)
+	3. [String Technique](#string-technique)
+4. [Winds](#d-winds)
+	1. [Flutes](#flutes)
+	4. [Piccolos](#piccolos)
+	4. [Clarinets](#clarinets)
+	4. [Oboes](#oboes)
+	4. [Bassoons](#bassoons)
+	4. [Contrabassoons](#contrabassoons)
+	4. [Saxophones](#saxopones)
+5. [Brass](#e-brass)
+	1. [Trumpets](#trumpets)
+	5. [French Horns](#french-horns)
+	5. [Trombones](#trombones)
+	5. [Euphoniums](#euphoniums)
+	5. [Tubas](#tubas)
+6. [Percussion](#f-percussion)
+	1. [Pitched](#pitched)
+	6. [Unpitched](#unpitched)
+7. [Other Guys](#other-guys)
+	1. [Piano](#piano)
+	7. [Guitar](#guitar)
+	7. [Voice](#voice)
+
+
 ### a. Field Guide Introduction
 
 **I find that everyone has an instrumental ‘vibe' to them**—some aspects of their being that match, occasionally to humorous effect, the personality and timbre of a certain instrument. For example, trumpet culture is dramatically different from violin I culture, for reasons too subjective to explain fully. Obviously, the personality stereotypes associated with each section are neither definitive nor concrete, as musicians hail from all walks of life and all temperaments. However, I maintain that there are salient characteristics in each instrument to which a certain brand of person is attracted, and anyways it's really fun to try and stereotype the phenomenon that is Orchestra Culture, so here we are.
@@ -127,14 +165,6 @@ There is, in fact, a purpose for such partitioning, humor and rehearsal boredom 
 **Lawful** describes the overall ability of the instrument to create an orthodox, orderly tone. Instruments that fall on this side of the continuum have a reputation of making sense, being pleasing to the ear, and having a calmness to their timbre. They frequently have leadership positions within the orchestra and often suffer from some degree of orchestral politics. [Flutists](#flutes) and [first violinists](#violins) are, by nature, more lawful than [trombonists](#trombones) and [violists](#violas).
 
 **Chaotic** instruments are freer to experiment, produce a wilder sound, and are encouraged—by temperament or by section—to rebel in what ways they can. Their tonal qualities are more unusual than that of the lawful instruments. They fall into two extremes: those whose sound is inherently piercing (as in the case with the [piccolos](#piccolos) and [oboes](#oboes)), and those whose stereotype of demureness encourages memery within the section ([contrabass](#basses) and [clarinets](#clarinets)). Historically, they may have been sidelined in the orchestra in favor of their more palatable counterparts.
-
-On both ends, modern composers have started pushing the limits of the tones that these instruments can produce, discarding orthodoxy in favor of screaming clarinet solos[^rhapsody] and spicy viola chords.[^schwanendreher] It’s glorious.
-
-[^rhapsody]: Gershwin: Rhapsody in Blue
-
-[^schwanendreher]: Hindemith: Der Schwanendreher
-
-TODO: fill these out
 
 #### Cronchy vs. Wet:
 ##### Moistness of temperament
@@ -196,9 +226,9 @@ As with some of the other classifications, the *authoritarianism* of an instrume
 #### Good vs. Evil:
 ##### Are you a piccolo or not
 
-> *Good instruments:* violin i/ii/iii, viola, cello, flute, clarinet, oboe, english horn, bassoon, saxophone, trumpet, french horn, tuba, euphonium, timpani, piano, melodica, mallet Instruments
+> *Good instruments:* violin i/ii/iii, viola, cello, flute, clarinet, oboe, english horn, bassoon, saxophone, trumpet, french horn, tuba, euphonium, timpani, piano, voice, melodica, mallet Instruments
 
-> *Evil instruments:* contrabass, piccolo, contrabassoon, trombone, sousaphone, percussion, drums, fire extinguisher, triangle, bongos, tambourine, guitar, bass, voice, recorder, kazoo
+> *Evil instruments:* contrabass, piccolo, contrabassoon, trombone, sousaphone, percussion, drums, fire extinguisher, triangle, bongos, tambourine, guitar, bass, recorder, kazoo
 
 Our final personality trope is *good vs. evil.* It's a remnant of the original human morality chart that stratified people across temperamental lines. As nebulous as evil is to define among humans, it's doubly difficult to apply it to instruments, through whom we speak.
 
@@ -282,7 +312,7 @@ How many AP classes these kids take typically has an inverse relationship with h
 
 > Violin II: lawful cronchy coarse capitalist authoritarian weak good
 
-***Second violinists:*** We come across more diversity and relaxation as we move left, entering the realm of the second violinists. The second violinists I've known in the orchestra are quiet, studious, but fountains of wit if you ask them any questions. A majority of elementary horse girls end up here, for one reason or another. It's the perennial curse of youth orchestras that the more inexperienced players are relegated to this section, so often they'll have less confidence and bombast than their first violin counterparts. On the flip side, they're easily the section that's genuinely trying the hardest. They understand and appreciate their role as supporters for first violin antics. Indeed, they often meet *solis* with a degree of confusion.
+***Second violinists:*** We come across more diversity and relaxation as we move left, entering the realm of the second violinists. The second violinists I've known in the orchestra are quiet, studious, but fountains of wit if you ask them any questions. A majority of elementary horse girls end up here, for one reason or another. It's the perennial curse of youth orchestras that the more inexperienced players are relegated to this section, so often they'll have less confidence and bombast than their first violin counterparts. On the flip side, they're easily the section that's genuinely trying the hardest.
 
 These descriptions apply to career second violinists. In smaller ensembles (like pit orchestras and string quartets), the Violin II section tend to be drawn from the pool of available Violin I players because of their experience with the world of solos and exposed parts. In these cases, they are not truly second violinists so much as they are mildly displaced first violinists. The same is true with violinists playing viola, though I'd argue that in both cases there is an observable mellowing of [capitalism](#capitalist-vs-communism).
 
@@ -304,7 +334,7 @@ It is important to note that you will never meet *career* third violinists, but 
 
  But there's an interesting technique that you can play with here, especially when writing for solo violin parts ([Monti: Czardas](https://youtu.be/ZHO6KOPWXtc?t=24)).[^czardas] Specifying higher-octave passages to be on the G string will force players to *portamento,* or glissando, on some interval leaps; vibrato will be dramatically amplified because of the smaller spaces between notes. The result is a wild, taut, gypsy-like sound. Don't overdo it, obviously; it's too theatrical for common usage. But it's breathtaking when executed correctly ([Suppe: Light Cavalry Overture](https://youtu.be/k_XLnFGNhL0?t=245)).[^lightcavalry]
 
- Whatever you do, take care of the second violins. At Carmel High and many equivalent high school string orchestras, the second violins are where the more inexperienced players are relegated; the back of the second violin section will always be much more unsure of themselves than the back of the first violin section. Though it makes for a charming section, the sound they produce can be weak (i.e. in my senior year at Carmel, we had a couple rehearsals where Handley had to tell our four-person viola section to stop covering the fourteen-person violin II section).
+ Whatever you do, take care of the second violins. At Carmel High and many equivalent high school string orchestras, the average player in the second violin section will  be less experienced than the average player in the first violin section. Though it makes for a charming section, the sound they produce can be weak (i.e. in my senior year at Carmel, we had a couple rehearsals where Handley had to tell our four-person viola section to stop covering the fourteen-person violin II section).
 
  This is not to say that you should simplify violin II rhythms or harmonic parts. In fact, when writing for orchestras that are like this, consider giving the violin II section more melodic content--if they're confident about what they're playing, and they're not stuck in unfamiliar intervals of harmony with the first violins, they'll project beautifully and produce the trademark Thick Violin Sound.
 
@@ -330,15 +360,33 @@ It is important to note that you will never meet *career* third violinists, but 
 | tuning | C3 G3 D4 A4 |
 | listen to these! | solo: [Clarke: Sonata for Viola and Piano](https://www.youtube.com/watch?v=kyhWWyDHIfM)[^clarke] <br> concerto: [Hindemith: Viola Concerto](https://www.youtube.com/watch?v=NkFbrUEhSCc)[^hindemithconcerto] |
 
-*Figure ii.c.4: An overview of the viola section. They can't be quiet as violins, but they're capable of being flat-out louder because of their size.*
+*Figure ii.c.4: An overview of the viola section. They can't reach violin levels of pianissimo, but they can simply be louder because of their size.*
 
 [^clarke]: [Clarke: Sonata for Viola and Piano](https://www.youtube.com/watch?v=kyhWWyDHIfM). I've played this for about a year now, and I'm sorry to see my passion for it fade over time, but this really is an incredible piece. It starts at about a 110% and just goes up from there. This is what I pull up whenever I'm showing someone that the higher registers on a viola are more yearning and powerful than that of a violin: there's something about it speaks rather than sings. (Hence the [cronchiness](#cronchy-vs-wet).) Clarke enjoys playing with the more extreme harmonic capabilities of the viola, especially in this sonata's alien [second movement](https://youtu.be/kyhWWyDHIfM?t=441).
 
-[^hindemithconcerto]: [Hindemith: Viola Concerto](https://www.youtube.com/watch?v=NkFbrUEhSCc). Devilishly difficult, but just extraordinary in all senses of the word. Some really wack double stops and chords (and fingerings, and pyrotechnics, and techniques, and...). Hindemith understood how to make the viola sing--he starts off this piece with this giant quadruple stop that ends with an E-E octave. Also, the [second movement](https://youtu.be/NkFbrUEhSCc?t=536) begins with a modest and sweet viola/harp duet, and it just really stops you in your tracks. 
+[^hindemithconcerto]: [Hindemith: Viola Concerto](https://www.youtube.com/watch?v=NkFbrUEhSCc). Devilishly difficult, but just extraordinary in all senses of the word. Some really wack double stops and chords (and fingerings, and pyrotechnics, and techniques, and...). Hindemith understood how to make the viola sing--he starts off this piece with this giant quadruple stop that ends with an E-E octave. Also, the [second movement](https://youtu.be/NkFbrUEhSCc?t=536) begins with a modest and sweet viola/harp duet, and it just really stops you in your tracks.
 
 ##### i. personality
 
-Violists are closest to [high brass](#e-brass) players because of a potent combination of chaotic capability and orchestral responsibility. (Bassists are the string equivalent of the low brass.)
+| moral alignment chart | [lawful/<br>chaotic](#lawful-vs-chaotic) | [cronchy/<br>wet](#cronchy-vs-wet) | [coarse/<br>majestic](#coarse-vs-majestic) | [capitalist/<br>communist](#capitalist-vs-communist) | [authoritarian/<br>liberal](#authoritarian-vs-liberal) | [strong/<br>weak](#strong-vs-weak) | [good/<br>evil](#good-vs-evil) |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| viola | chaotic | cronchy | majestic | communist | liberal | weak | good |
+
+**If you have a very fluid and ambiguous sexuality,** really like Drake, and have somewhat of an inferiority complex, you may just be a violist.
+
+Violists are closest to [high brass](#e-brass) players because of a potent combination of chaotic capability and orchestral responsibility. ([Bassists](#basses) are the string equivalent of the low brass; that the violas and [trumpets](#trumpets) are asked more often to play prominent melodic parts keeps them in check.) Of the continental string orchestra, they're the chillest and least capitalist section. They make up for their lack of the orchestral spotlight by being really up in arms about the worth of a viola as an instrument. Any solos they get are a point of pride that they blow out of proportion to others and then forget to practice. But theyve been accompanying the violins their whole lives, so they've kind of accepted their fate, and this is the section that most genuinely throws themselves into the boring fifths and thirds that make the rest of the orchestra sound so good.
+
+As with the second violins, it's important to distinguish between career violists and those who double on viola, but whose primary instrument is the violin. Viola will mellow out the capitalistic tendencies of violinists, but violinists rarely become chaotic or cronchy because of their viola experience.
+
+Along similar lines, there are those who primarily play viola but play violin when it's called for.[^pitviola] Violists on violin have a very intense vibrato, because of the amount of vibrato necessary to speak on viola; their playing may become wetter on viola because of the influence of the smoother violin sound. There's an increase in capitalism proportional to which violin section they represent when they play violin.
+
+[^pitviola]: Or when pit orchestra has no viola parts, like *both* of the musicals we did in my senior year (Addams Family and Guys and Dolls).
+
+##### ii. general notes
+
+**In the first movement of [Shostakovich's Fifth Symphony](https://www.youtube.com/watch?v=cg0M4LzEITQ),** there's a viola soli that's played all the way up in your nostrils. It's ghostly and pale, simultaneously recognizable (because it has the tonal uniformity of the rest of the string orchestra) and alien (because there's some timbre you can't put your finger on). There's something unsettling about not being able to place who's playing, something fundamentally unfamiliar about the choked-up timbres of the viola that you just can't place.
+
+To me, this exemplifies the purpose of the viola and the extraordinary effects that it can produce. The viola section has a very distinct tone that's very different from that of the violin sections. Because it's acoustically strangled and there are fewer places where the resonance *really* works, a viola's tone is what you would get if you took a violin's sound and aged it in a barrel for a little while. It's much warmer and mellower across the board, though when you get high enough, the tone shifts from
 
 #### cellos
 
@@ -378,13 +426,13 @@ Chromaticism comes easily to violins, more so than violas and cellos (who have a
 
 #####
 
-[^notviolas]: [Violas](#violas) and [basses](#basses) do not share this quality. They're built a couple inches smaller than their ideal lengths because the fully optimized size would be impractical--cue the [octobasse](TODOLINK). As a result, they can sound strangled, like their bodies can't handle the frequencies that the player is trying to wrangle; they do not have the same easy  timbre that violins and cellos enjoy.)
+[^notviolas]: [Violas](#violas) and [basses](#basses) do not share this quality. They're built a couple inches smaller than their ideal lengths because the fully optimized size would be impractical--cue the [octobasse](#basses). As a result, they can sound strangled, like their bodies can't handle the frequencies that the player is trying to wrangle; they do not have the same easy  timbre that violins and cellos enjoy.)
 
 ### d. Winds
 
 | winds |   *an overview*          |
 | ---  |  |
-| members | *principally:* [flutes](#flutes); [clarinets](#clarinets); [oboes](#oboes); [bassoons](#bassoons) <br> *additionally:* [saxophones](#saxophones) <br> *specialty:* [piccolo](#piccolos); [english horn](#oboes); [contrabassoons](#bassoons)
+| members | *principally:* [flutes](#flutes); [clarinets](#clarinets); [oboes](#oboes); [bassoons](#bassoons) <br> *additionally:* [saxophones](#saxophones) <br> *specialty:* [piccolo](#piccolos); [english horn](#oboes); [contrabassoons](#contrabassoons)
 | strengths | vulnerability,  |
 | weaknesses | playing without vibrato, purity of tone, faking things, intonation in small settings, irregularly-shaped runs |
 | dynamics | *pppp* to *fff* |
@@ -438,6 +486,30 @@ Chromaticism comes easily to violins, more so than violas and cellos (who have a
 | dynamics | |
 | clefs |  |
 
+#### bassoons
+
+| bassoons | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
+
+#### contrabassoons
+
+| contrabassoons | *an overview* |
+| ---  |  |
+| high range |  |
+| middle range |  |
+| low range |  |
+| major weakness |  |
+| range |  |
+| dynamics | |
+| clefs |  |
+
 #### saxophones
 
 | saxophones | *an overview* |
@@ -450,17 +522,6 @@ Chromaticism comes easily to violins, more so than violas and cellos (who have a
 | dynamics | |
 | clefs |  |
 
-#### bassoons
-
-| bassoons | *an overview* |
-| ---  |  |
-| high range |  |
-| middle range |  |
-| low range |  |
-| major weakness |  |
-| range |  |
-| dynamics | |
-| clefs |  |
 ### e. Brass
 
 #### trumpets
