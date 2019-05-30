@@ -2,6 +2,18 @@ body {
 	font-family: roboto, helvetica neue, sans-serif;
 }
 
+h1 {
+	text-align: center;
+}
+
+h2 {
+text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
 .footnote[alt]:hover:after, span[alt]:hover:after { /*TODO: Fix this lmao */
 	content: attr(alt);
 	position: absolute;

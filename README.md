@@ -268,7 +268,7 @@ We'll get into the specifics of writing for extended [string technique](#string-
 
 [^flex]: The latter flex can also be taken quite literally if necessary.
 
-#### violins
+#### Violins
 
 | violins | *an overview* |
 | ---  |  |
@@ -346,7 +346,7 @@ It is important to note that you will never meet *career* third violinists, but 
 
  [^lightcavalry]: [Suppe: Light Cavalry Overture](https://youtu.be/k_XLnFGNhL0?t=245). Here's a piece that uses *sul G* or *sul C* across the orchestra--it can be done! The effect of a whole orchestra sliding up to their notes, playing in unison, is pretty sick. It's rhapsodic and melancholy and also really fun to play. Also you should stay for the kickass trumpet soli right after the passage.
 
-#### violas
+#### Violas
 
 | violas | *an overview* |
 | ---  |  |
@@ -386,24 +386,37 @@ Along similar lines, there are those who primarily play viola but play violin wh
 
 **In the first movement of [Shostakovich's Fifth Symphony](https://www.youtube.com/watch?v=cg0M4LzEITQ),** there's a viola soli that's played all the way up in your nostrils. It's ghostly and pale, simultaneously recognizable (because it has the tonal uniformity of the rest of the string orchestra) and alien (because there's some timbre you can't put your finger on). There's something unsettling about not being able to place who's playing, something fundamentally unfamiliar about the choked-up timbres of the viola that you just can't place.
 
-To me, this exemplifies the purpose of the viola and the extraordinary effects that it can produce. The viola section has a very distinct tone that's very different from that of the violin sections. Because it's acoustically strangled and there are fewer places where the resonance *really* works, a viola's tone is what you would get if you took a violin's sound and aged it in a barrel for a little while. It's much warmer and mellower across the board, though when you get high enough, the tone shifts from
+To me, this exemplifies the purpose of the viola and the extraordinary effects that it can produce. The viola section has a very distinct tone that's very different from that of the violin sections. Because it's acoustically strangled and there are fewer places where the resonance *really* works, a viola's tone is what you would get if you took a violin's sound and aged it in a barrel for a little while.
 
-#### cellos
+All registers but the very high are rather muffled for violas. For this reason, it's not a great idea to try and use violas to carry a melodic line at times where significant amounts of people are playing. Even where the orchestration is thinner, the lines played by violas are unlikely to be very loud or vivacious. Maybe that's what you're going for, though: melancholy, thick, and sort of flat.
+
+Keep in mind that violas, because of their larger design and thicker strings, take more energy and time to speak than the lithe violins. This trend continues down the whole string orchestra down to the basses, who you *really* need to take care of in terms of speed and agility. The violas still enjoy complex passages, of course, but in this way they are not equivalent to violins.
+
+#### Cellos
 
 | cellos | *an overview* |
 | ---  |  |
 | high range | soaring, romantic, tense |
 | middle range | narrow, focused, relentless |
 | low range | sonorous, relaxed, rumbling |
-| major weakness |  |
+| major weakness | sitting closely together |
 | range | C2--C6 |
 | dynamics | *ppp* to *fff* |
 | clefs | bass-tenor-treble, in C |
 | tuning | C2 G2 D3 A3 |
 
-#### basses
+*Figure ii.c.x: An overview of the cello section. They can do a lot of things, but they sure can't handle you sitting directly to their right.*
 
-| cellos | *an overview* |
+##### i. personality
+
+| moral alignment chart | [lawful/<br>chaotic](#lawful-vs-chaotic) | [cronchy/<br>wet](#cronchy-vs-wet) | [coarse/<br>majestic](#coarse-vs-majestic) | [capitalist/<br>communist](#capitalist-vs-communist) | [authoritarian/<br>liberal](#authoritarian-vs-liberal) | [strong/<br>weak](#strong-vs-weak) | [good/<br>evil](#good-vs-evil) |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| cello | lawful | wet | majestic | capitalist | authoritarian | strong | good |
+
+
+#### Basses
+
+| basses | *an overview* |
 | ---  |  |
 | high range | ghostly, alien, improbable |
 | middle range | supportive, humorous, modest |
