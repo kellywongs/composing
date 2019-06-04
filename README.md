@@ -282,7 +282,7 @@ We'll get into the specifics of writing for extended [string technique](#string-
 | tuning | G3 D4 A4 E5 |
 | listen to this! |  *violin solo:* [Vitali: Chaconne in G Minor](https://www.youtube.com/watch?v=i4B1ifcWa9o)[^chaconne] <Br> *concerto:* [Bruch: Violin Concerto No. 1](https://www.youtube.com/watch?v=KDJ6Wbzgy3E&)[^bruchconcerto]
 
-*Figure ii.c.3: An overview of the violin section. Their maximum volume is* ff, *not the* fff *that the larger orchestra is capable of.*
+*Figure ii.vn.1 An overview of the violin section. Their maximum volume is* ff, *not the* fff *that the larger orchestra is capable of.*
 
 [^chaconne]: [Vitali: Chaconne in G Minor](https://www.youtube.com/watch?v=i4B1ifcWa9o), played by Oistrakh. This is the piece I think of whenever I talk about the violin's inexorable schmultzyness--sometimes this will come up on my music and I'll swipe it away because I'm really just not in the mood to deal with it. It's undeniably beautiful, though. It's also a great contrast to the second link that I have, which is a concerto played by Hilary Hahn: Oistrach's wild vibrato and portamento is so different from Hahn's crystal-clear purity.
 
@@ -296,7 +296,7 @@ We'll get into the specifics of writing for extended [string technique](#string-
 | violin ii | lawful | cronchy | coarse | capitalist | authoritarian | weak | good |
 | violin iii | chaotic | cronchy | coarse | communist | liberal | weak | good |
 
-*Figure ii.c.4: A moral alignment chart for all the violin sections. All three are ultimately good, but Violin I and III are fundamentally different in every other way.*
+*Figure ii.vn.2: A moral alignment chart for all the violin sections. All three are ultimately good, but Violin I and III are fundamentally different in every other way.*
 
 **You may be a violinist** if you’re slightly fragile, moderately self-deprecating, and have extreme reactions to caffeine. There are generally two divisions of violinists in any orchestra, the violins I and II; occasionally (with Bach and distrustful grade-school arrangers in equal measure) you get a violin III section. No one likes talking about the violin IIIs, but it’s a section nevertheless, so as it stands we’ve got ourselves three very diverse personality types on one instrument.
 
@@ -360,7 +360,7 @@ It is important to note that you will never meet *career* third violinists, but 
 | tuning | C3 G3 D4 A4 |
 | listen to these! | solo: [Clarke: Sonata for Viola and Piano](https://www.youtube.com/watch?v=kyhWWyDHIfM)[^clarke] <br> concerto: [Hindemith: Viola Concerto](https://www.youtube.com/watch?v=NkFbrUEhSCc)[^hindemithconcerto] |
 
-*Figure ii.c.4: An overview of the viola section. They can't reach violin levels of pianissimo, but they can simply be louder because of their size.*
+*Figure ii.va.1: An overview of the viola section. They can't reach violin levels of pianissimo, but they can simply be louder because of their size.*
 
 [^clarke]: [Clarke: Sonata for Viola and Piano](https://www.youtube.com/watch?v=kyhWWyDHIfM). I've played this for about a year now, and I'm sorry to see my passion for it fade over time, but this really is an incredible piece. It starts at about a 110% and just goes up from there. This is what I pull up whenever I'm showing someone that the higher registers on a viola are more yearning and powerful than that of a violin: there's something about it speaks rather than sings. (Hence the [cronchiness](#cronchy-vs-wet).) Clarke enjoys playing with the more extreme harmonic capabilities of the viola, especially in this sonata's alien [second movement](https://youtu.be/kyhWWyDHIfM?t=441).
 
@@ -372,13 +372,17 @@ It is important to note that you will never meet *career* third violinists, but 
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | viola | chaotic | cronchy | majestic | communist | liberal | weak | good |
 
+*Figure ii.va.1: Viola section moral alignment chart. Note its political similarity with the double bass section, but its contrasting fundamental goodness.*
+
 **If you have a very fluid and ambiguous sexuality,** really like Drake, and have somewhat of an inferiority complex, you may just be a violist.
 
-Violists are closest to [high brass](#e-brass) players because of a potent combination of chaotic capability and orchestral responsibility. ([Bassists](#basses) are the string equivalent of the low brass; that the violas and [trumpets](#trumpets) are asked more often to play prominent melodic parts keeps them in check.) Of the continental string orchestra, they're the chillest and least capitalist section. They make up for their lack of the orchestral spotlight by being really up in arms about the worth of a viola as an instrument. Any solos they get are a point of pride that they blow out of proportion to others and then forget to practice. But theyve been accompanying the violins their whole lives, so they've kind of accepted their fate, and this is the section that most genuinely throws themselves into the boring fifths and thirds that make the rest of the orchestra sound so good.
+Violists are closest to [high brass](#e-brass) players because of a potent combination of chaotic capability and orchestral responsibility. ([Bassists](#basses) are the string equivalent of the low brass; that the violas and [trumpets](#trumpets) are asked more often to play prominent melodic parts keeps them in check.)
+
+Of the continental string orchestra, they're the chillest and least [capitalist](#capitalist-vs-communist) section. They make up for their lack of the orchestral spotlight by being really up in arms about the worth of a viola as an instrument. Any solos they get are a point of pride that they blow out of proportion and subsequently forget to practice. But they've been accompanying the violins their whole lives, so they've kind of accepted their fate, and this is the section that most genuinely throws themselves into the boring fifths and thirds that make the rest of the orchestra sound so good. They'll bristle when you accuse them of only ever getting to play harmonies, but then they'll turn around and smugly advertise this very point to younger players.
 
 As with the second violins, it's important to distinguish between career violists and those who double on viola, but whose primary instrument is the violin. Viola will mellow out the capitalistic tendencies of violinists, but violinists rarely become chaotic or cronchy because of their viola experience.
 
-Along similar lines, there are those who primarily play viola but play violin when it's called for.[^pitviola] Violists on violin have a very intense vibrato, because of the amount of vibrato necessary to speak on viola; their playing may become wetter on viola because of the influence of the smoother violin sound. There's an increase in capitalism proportional to which violin section they represent when they play violin.
+Along similar lines, there are those who primarily play viola but play violin when it's called for.[^pitviola] Violists on violin have a very intense vibrato, because of the amount of vibrato necessary to speak on viola; their playing may become [*wetter*](#cronchy-vs-wet) on viola because of the influence of the smoother violin sound. There's an increase in capitalism proportional to which violin section they represent when they play violin.
 
 [^pitviola]: Or when pit orchestra has no viola parts, like *both* of the musicals we did in my senior year (Addams Family and Guys and Dolls).
 
@@ -388,9 +392,13 @@ Along similar lines, there are those who primarily play viola but play violin wh
 
 To me, this exemplifies the purpose of the viola and the extraordinary effects that it can produce. The viola section has a very distinct tone that's very different from that of the violin sections. Because it's acoustically strangled and there are fewer places where the resonance *really* works, a viola's tone is what you would get if you took a violin's sound and aged it in a barrel for a little while.
 
-All registers but the very high are rather muffled for violas. For this reason, it's not a great idea to try and use violas to carry a melodic line at times where significant amounts of people are playing. Even where the orchestration is thinner, the lines played by violas are unlikely to be very loud or vivacious. Maybe that's what you're going for, though: melancholy, thick, and sort of flat.
+All registers but the very high are rather muffled for violas. For this reason, it's not a great idea to try and use violas to carry a melodic line at times where significant amounts of people are playing. Even where the orchestration is thinner, the lines played by violas are unlikely to be very loud or vivacious.
 
-Keep in mind that violas, because of their larger design and thicker strings, take more energy and time to speak than the lithe violins. This trend continues down the whole string orchestra down to the basses, who you *really* need to take care of in terms of speed and agility. The violas still enjoy complex passages, of course, but in this way they are not equivalent to violins.
+Maybe that's what you're going for, though: melancholy, thick, and sort of flat. In which case continue by all means.[^shosty11]
+
+Keep in mind that violas, because of their larger design and thicker strings, take more energy and time to speak than the smaller and defter violins. This means that extremely fast passages and runs are sketchier on viola than violin, and the problem worsens in lower registers. (This trend continues down the whole string orchestra  to the basses, for whom speed and agility is a real obstacle. So I really can't even begin to complain.)
+
+[^shosty11]: [Shostakovich: Symphony No. 11, "The Year 1905," III. Eternal Memory (Adagio)](https://youtu.be/TKVPohVLvw0?list=OLAK5uy_nqluY2k-uYjdrd-wIYuzuhTwdd3If3oaQ&t=43). This movement--Shostakovich's requisite funeral march--begins slowly, with pizzicato in the basses. It's joined by a lengthy viola soli, which is ghostly and lonely and everything you wouldn't expect from upper strings.
 
 #### Cellos
 
@@ -405,7 +413,7 @@ Keep in mind that violas, because of their larger design and thicker strings, ta
 | clefs | bass-tenor-treble, in C |
 | tuning | C2 G2 D3 A3 |
 
-*Figure ii.c.x: An overview of the cello section. They can do a lot of things, but they sure can't handle you sitting directly to their right.*
+*Figure ii.vc.1: An overview of the cello section. They can do a lot of things, but they sure can't handle you sitting directly to their right.[^setup]*
 
 ##### i. personality
 
@@ -413,19 +421,52 @@ Keep in mind that violas, because of their larger design and thicker strings, ta
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | cello | lawful | wet | majestic | capitalist | authoritarian | strong | good |
 
+**Cellists are the kind of people** who take orchestra snacktime too seriously.[^chsfreshmen] They're dedicated, intelligent souls with a heart of gold and a talent for complaining about things they don't really have a right to complain about. The big voice of a cello demands a big personality to match.
+
+[^setup]: Okay but why do people (mostly second violinists, actually) set up the back rows before they create the front row? It just? doesn't make any sense? and it clogs the kids in the front row?
+
+[^chsfreshmen]: Although I will say that this isn't entirely unwarranted. At the beginning of my senior year, the CHS Class of '23 really liked to steal more chip bags than they deserved. This was met with much vitriol from the upperclassmen, many of whom were cellists.
+
+##### ii. general notes
+
+Violists like bragging about the sonority and distinctive power of the viola upper range, but just not in front of the cellists because we all know who the real winner is here. The cello A string, and everything above it, has a timbre that's instantly recognizable and heart-stoppingly effective. It's glowy and warm, endlessly expressive, with a chest-voice quality that stops you in your tracks.
+
+Take advantage of this whenever you can! This range is, of course, best suited for experienced cellists who have the vibrato and intonation to pull off a stint in the area, but there's nothing like hearing it go right. (Also there's nothing like hearing it go wrong.)
 
 #### Basses
 
 | basses | *an overview* |
 | ---  |  |
-| high range | ghostly, alien, improbable |
+| high range | ghostly, alien, improbably tender |
 | middle range | supportive, humorous, modest |
-| low range | growling, slow to speak, muted |
+| low range | growling, mighty, menacing |
 | major weakness | moving quickly |
 | range | C1--C4 |
 | dynamics | *pp* to *ff* |
 | clefs | bass-tenor-treble, in C |
 | tuning | E1 A1 D2 G2 |
+
+##### i. personality
+
+Bassists, like I've recently told Harrison, have a peculiar blend of virtuosity and utter chaos that really defines them as a group. They're irreverent, talkative, and incredibly hungry all the time, but they're also unexpectedly and delightfully dedicated to what they do. Dealing in equal measure with jazz, classical, rock, and bluegrass ensembles, they're the most well-traveled member of the string orchestra. About the only groups that don't care about these guys are smaller chamber music ensembles.
+
+That doesn't stop bassists from flexing their skills, anyways. If you can think of a piece, there's a nonzero probability that some bassist asshat has transcribed it, *at pitch*, to bass, from the [Flight of the Bumblebee](https://www.youtube.com/watch?v=kLvC1046t7w) to the [Passacaglia](https://www.youtube.com/watch?v=eDBoU0t6sfk).
+
+##### ii. general notes
+
+Nikolai Rimsky-Korsakov kind of shafts the basses by relegating them to eternal doubling:
+
+> Except in the case of pedal notes, the double bass rarely plays an independent part, usually moving in octaves or in unison with the 'cellos, or else doubling the bassoons. The quality of the double bass tone is therefore seldom heard by itself and the character of its different strings is not so noticeable.
+>
+> *Principles of Orchestration*
+
+We know now that this isn't always true. Today's basses frequently move independently of the orchestra, and there should be consideration given to its unique tone qualities.
+
+Bassists man the orchestra's heaviest and most ungainly instrument. Getting it to articulate rapid runs is a whole-body physical workout and a half, so it's generally not advisable to give these guys anything incredibly demanding.  
+
+Though classical bassists learn all the techniques that the other string sections do--martele, marcato, tremelo, and spicatto, to name a few--the application of these techniques rarely have the freedom that the violin players do. Low notes, for example, are rarely played with vibrato because the goal of the string bass is to provide a pure fundamental for the orchestra to ride on top.
+
+Jazz bassists will deal largely in
 
 #### string technique
 

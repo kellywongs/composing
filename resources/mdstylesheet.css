@@ -2,15 +2,7 @@ body {
 	font-family: roboto, helvetica neue, sans-serif;
 }
 
-h1 {
-	text-align: center;
-}
-
-h2 {
-text-align: center;
-}
-
-h5 {
+h1, h2, h3, h5 {
 	text-align: center;
 }
 
