@@ -533,31 +533,3 @@ Saxophones are, technically, wind instruments, even in all their brassy gold glo
 | clefs |  |
 
 “The double bassoon extends the range of the ordinary bassoon in the low register. The characteristics of the bassoon's low compass are still further accentuated in the corresponding range of the double bassoon, but the middle and upper registers of the latter are by no means so useful. The very deep notes of the double bassoon are remarkably thick and dense in quality, very powerful in piano passages.”
-
-#### saxophones
-
-| saxophones | *an overview* |
-| ---  |  |
-| high range |  |
-| middle range |  |
-| low range |  |
-| major weakness |  |
-| range |  |
-| dynamics | |
-| clefs |  |
-
----
-
-### e. Brass
-
-#### trumpets
-
-#### french horns
-
-#### trombones
-
-#### euphoniums
-
-#### tubas
-
----
