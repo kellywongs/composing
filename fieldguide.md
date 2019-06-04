@@ -5,7 +5,7 @@
 
 ### a field guide to the orchestra by kelly wong, ap literature class of 2019, <br> with apologies to paul hindemith and nikolai rimsky-korsakov
 
-| [Introduction](index.md) | **[Field Guide](fieldguide.md)** | [Writing](writing.md) |  [Typesetting](typesetting.md) |  [Pieces](pieces.md) | [Closing Words](closing.md) |
+##### | [Introduction](index.md) | **[Field Guide](fieldguide.md)** | [Writing](writing.md) |  [Typesetting](typesetting.md) |  [Pieces](pieces.md) | [Closing Words](closing.md) |
 
 ---------------
 ## ii. A Field Guide to the Orchestra
@@ -154,6 +154,8 @@ So what *does* it mean?
 **Evil** instruments are those who find it easy to disrupt the peace of a piece, so to speak. A combination of their *cronchiness, authoritarianism,* and *strength*--cacophony, timbre, and volume--allows whatever they do to soar over the rest of the orchestra and easily derail any endeavor. It doesn't matter how loudly people are noodling in a practice hall: the smallest sound from an evil instrument bounces around in your brain for hours. Notable offenders are [basses](#contrabasses) and [piccolos](#piccolos).
 
 **Good** instruments tend to contribute to the euphony of the larger group. Though leadership disposition (via *lawfulness*) influences this considerably, the larger variables are their *wetness, majesty,* and *liberalism*. Any one of these qualities makes it difficult to be evil, simply because they cannot be loud or disruptive enough. The quintessential *good* instrument is the [bassoon](#bassoons), for its sextuple-whammy lawful-wet-majestic-communist-liberal-weak personality type.
+
+---
 
 ### c. Strings
 
@@ -397,81 +399,125 @@ The melodies that bounce around in my head are translated into the diverse langu
 
 ##### general notes:
 
-Chromaticism comes easily to violins, more so than violas and cellos (who have a larger area in which to make intonation errors). However, it's still inadvisable to give the strings rapid chromatic passages, which will sound muddy and
+Chromaticism comes easily to violins, more so than violas and cellos (who have a larger area in which to make intonation errors). However, it's still inadvisable to give the strings rapid chromatic passages, which will sound muddy in large ensembles.
 
-#####
+##### techniques:
+
+
 
 [^notviolas]: [Violas](#violas) and [basses](#basses) do not share this quality. They're built a couple inches smaller than their ideal lengths because the fully optimized size would be impractical--cue the [octobasse](#basses). As a result, they can sound strangled, like their bodies can't handle the frequencies that the player is trying to wrangle; they do not have the same easy  timbre that violins and cellos enjoy.)
+
+---
 
 ### d. Winds
 
 | winds |   *an overview*          |
 | ---  |  |
 | members | *principally:* [flutes](#flutes); [clarinets](#clarinets); [oboes](#oboes); [bassoons](#bassoons) <br> *additionally:* [saxophones](#saxophones) <br> *specialty:* [piccolo](#piccolos); [english horn](#oboes); [contrabassoons](#contrabassoons)
-| strengths | vulnerability,  |
-| weaknesses | playing without vibrato, purity of tone, faking things, intonation in small settings, irregularly-shaped runs |
-| dynamics | *pppp* to *fff* |
+| strengths | vulnerability, brilliance, richness of coloration, striking contrast |
+| weaknesses | vitality and power, shades of expression |
+| dynamics | *ppppp* to *fff* |
+
+**The woodwind group** is notable not for range of expression but for the richness of its color. No other orchestral section has as much intense contrast as the woodwinds do (percussionists don't count, dammit). The strings, while offering a fair variety of timbres in its compass, are comparatively homogenous to the woodwinds' extremes of timbre.
+
+The four major kinds of wind instruments--flute, oboe, clarinet, and bassoon--are generally equal in power. Each has three distinct registers (low, middle, and high) that have their own qualities and powers; when a player jumps from one register to another, the difference in timbre is striking.
+
+All four of these instruments have auxiliaries and cousins that extend the range, and recolor the voice, of the original. Common ones are the piccolo (+ extremely high), bass clarinet (+ extremely low), english horn (+ coloration), and contrabassoon (+ extremely low), which make an extended family for each of the major kinds respectively. These tend to be weaker in tone production, but more highly-colored and distinct; the piccolo and contrabassoon, as extremely high and extremely low additions to the wind range, have the particular distinction of being able to sound notes so extreme that they have no artistic merit.
+
+| moral alignment chart | [lawful/<br>chaotic](#lawful-vs-chaotic) | [cronchy/<br>wet](#cronchy-vs-wet) | [coarse/<br>majestic](#coarse-vs-majestic) | [capitalist/<br>communist](#capitalist-vs-communist) | [authoritarian/<br>liberal](#authoritarian-vs-liberal) | [strong/<br>weak](#strong-vs-weak) | [good/<br>evil](#good-vs-evil) |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| flute | lawful | wet | majestic | capitalist | authoritarian | weak | good |
+| piccolo | chaotic | cronchy | coarse | capitalist | authoritarian | strong | evil |
+| clarinet | chaotic | wet | coarse | capitalist | liberal | weak | good  |
+| oboe | lawful | cronchy | majestic | capitalist | authoritarian | strong | good |
+| english horn | lawful | wet | majestic | capitalist | liberal | weak | good
+| bassoon | lawful | wet | majestic | capitalist | liberal | weak | good
+| contrabassoon | lawful | cronchy | coarse | communist | authoritarian | weak | evil |
+| saxophone | chaotic | cronchy | coarse | communist | liberal | strong | good |
+
+Saxophones are, technically, wind instruments, even in all their brassy gold glory. I've included them under this section because I don't want to get yelled at by Sophia, and also because it's true that I can't fit it in any other place. They're rarely used in the orchestral setting, which I think is a crime. (Rachmaninoff's Second Piano Concerto has a striking melody doubled by oboe and clarinet that's supposed to emulate a saxophone's distinct sultriness. Eventually Rachmaninoff gave in and just wrote in a sax part in some of his later works.)
 
 #### flutes
 
 | flutes | *an overview* |
 | ---  |  |
-| high range |  |
-| middle range |  |
-| low range |  |
-| major weakness |  |
-| range |  |
-| dynamics | |
-| clefs |  |
+| high range | piercing, cold, brilliant |
+| middle range | mellow, sonorous, bubbly |
+| low range | dark, nasal, sorrowful |
+| major weakness | violists |
+| range | C4 - C7 |
+| dynamics | *pppp* to *ff* |
+| clefs | treble, in C |
+
+- most flexible, more than clarinets
+- good for arpeggios and rapid alternation of two intervals
 
 #### piccolos
 
 | piccolos | *an overview* |
 | ---  |  |
-| high range |  |
-| middle range |  |
-| low range |  |
-| major weakness |  |
-| range |  |
-| dynamics | |
-| clefs |  |
+| high range | p i e r c i n g |
+| middle range | no |
+| low range | what low range |
+| major weakness | ear damage |
+| range | D5 - C8 |
+| dynamics | *pp* to *fff* |
+| clefs | octave treble, in C |
+
+> The whistling, piercing quality of the piccolo in its highest compass is extraordinarily powerful, but does not lend itself to more moderate shades of expression. The small clarinet in its highest register is more penetrating than the ordinary clarinet. The low and middle range of the piccolo and small clarinet correspond to the same register in the normal flute and clarinet, but the tone is so much weaker that it is of little service in those regions.
+>
+> *Principles of Orchestration*
 
 #### clarinets
 
 | clarinets | *an overview* |
 | ---  |  |
-| high range |  |
-| middle range |  |
-| low range |  |
-| major weakness |  |
-| range |  |
-| dynamics | |
-| clefs |  |
+| high range | impassioned, dramatic, piercing |
+| middle range | expressive, contemplative |
+| low range | ringing, threatening |
+| major weakness | resisting the urge to give it a light squeeze between the legs |
+| range | E3 - C7 |
+| dynamics | *pppp* to *ff* |
+| clefs | treble, commonly in Bb but also sometimes in A |
+
+- most flexible less than flutes, for expressive power and subtlety in nuances the clarinet is better at all (this instrument can reduce volume of tone to a mere breath)
+- bad for octave leaps
+- good for arpeggios and rapid altenertion of two intervals
+- largest pitch range of the woodwinds
 
 #### oboes
 - english horns
 
 | oboes | *an overview* |
 | ---  |  |
-| high range |  |
-| middle range |  |
-| low range |  |
-| major weakness |  |
-| range |  |
-| dynamics | |
-| clefs |  |
+| high range | "artless and gay"  |
+| middle range | wild, dry |
+| low range | "pathetic and sad" |
+| major weakness | not bringing up reed wrapping |
+| range | Bb3 - A6 |
+| dynamics | *ppp* to *fff* |
+| clefs | treble, in C |
+
+- “The nasal instruments, oboe and bassoon, are less mobile and supple; this is accounted for by their double reed, but, having to effect all sorts of scales and rapid passages in common with the flutes and clarinets, oboes and bassoons may be considered melodic instruments in the real sense of the word, only of a more cantabile and peaceful character.”
+
+> The English horn, or alto oboe (oboe in F) is similar in tone to the ordinary oboe, the listless, dreamy quality of its timbre being sweet in the extreme. In the low register it is fairly penetrating.
+>
+> *Principles of Orchestration*
+
 
 #### bassoons
 
 | bassoons | *an overview* |
 | ---  |  |
 | high range |  |
-| middle range |  |
-| low range |  |
+| middle range | peaceful |
+| low range | senile, melancholy |
 | major weakness |  |
 | range |  |
 | dynamics | |
 | clefs |  |
+
+“but distinct and penetrating staccato passages are better suited to the oboes and bassoons,”
 
 #### contrabassoons
 
@@ -485,6 +531,8 @@ Chromaticism comes easily to violins, more so than violas and cellos (who have a
 | dynamics | |
 | clefs |  |
 
+“The double bassoon extends the range of the ordinary bassoon in the low register. The characteristics of the bassoon's low compass are still further accentuated in the corresponding range of the double bassoon, but the middle and upper registers of the latter are by no means so useful. The very deep notes of the double bassoon are remarkably thick and dense in quality, very powerful in piano passages.”
+
 #### saxophones
 
 | saxophones | *an overview* |
@@ -497,6 +545,8 @@ Chromaticism comes easily to violins, more so than violas and cellos (who have a
 | dynamics | |
 | clefs |  |
 
+---
+
 ### e. Brass
 
 #### trumpets
@@ -508,30 +558,5 @@ Chromaticism comes easily to violins, more so than violas and cellos (who have a
 #### euphoniums
 
 #### tubas
-
-### f. Percussion
-
-#### pitched
-- timpani
-- mallet percussion
-	- xylophone
-	- glockenspiel
-	- marimba
-
-#### unpitched
-- drums
-- fire extinguisher
-- triangle
-- cowbell
-- sandpaper blocks shaky thing
-
-### g. Other Guys
-
-#### piano
-
-#### guitar
-- the other kind of bass
-
-#### voice
 
 ---
