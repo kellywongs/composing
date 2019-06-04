@@ -1,3 +1,13 @@
+
+<link href="resources/mdstylesheet.css" rel="stylesheet">
+
+## Welcome to the Composing Swamp <br> *(I Want To Arrange Something. Now What?)*
+
+### a field guide to the orchestra by kelly wong, ap literature class of 2019, <br> with apologies to paul hindemith and nikolai rimsky-korsakov
+
+| [Introduction](index.md) | **[Field Guide](fieldguide.md)** | [Writing](writing.md) |  [Typesetting](typesetting.md) |  [Pieces](pieces.md) | [Closing Words](closing.md) |
+
+---------------
 ## ii. A Field Guide to the Orchestra
 
 1. Introduction
@@ -10,11 +20,11 @@
 	2. [Strong vs. Weak](#strong-vs-weak)
 	2. [Good vs. Evil](#good-vs-evil)
 3. [Strings](#c-strings)
- 	1. [Violins](#violins)
-	3. [Violas](#violas)
-	3. [Cellos](#cellos)
-	3. [Basses](#basses)
-	3. [String Technique](#string-technique)
+  1. [Violins](#violins)
+  3. [Violas](#violas)
+  3. [Cellos](#cellos)
+  3. [Basses](#basses)
+  3. [String Technique](#string-technique)
 4. [Winds](#d-winds)
 	1. [Flutes](#flutes)
 	4. [Piccolos](#piccolos)
@@ -523,3 +533,5 @@ Chromaticism comes easily to violins, more so than violas and cellos (who have a
 - the other kind of bass
 
 #### voice
+
+---

@@ -5,41 +5,7 @@
 
 ### a field guide to the orchestra by kelly wong, ap literature class of 2019, <br> with apologies to paul hindemith and nikolai rimsky-korsakov
 
-
----------------
-
-Table of Contents:
-1. [Introduction](#i-introduction)
-	1. [Preface](#a-preface)
-	1. [Contents](#b-contents-held-forthwith)
-2. [Field Guide](fieldguide.md)
-	1. [Introduction](fieldguide.md/#a-field-guide-introduction)
-	2. [Explanations](fieldguide.md/#b-explanations)
-	2. [Strings](fieldguide.md/#c-strings)
-	2. [Winds](fieldguide.md/#d-winds)
-	2. [Brass](fieldguide.md/#e-brass)
-	2. [Percussion](fieldguide.md/#f-percussion)
-	2. [Other Guys](fieldguide.md/#g-other-guys)
-3. [Writing](#iii-writing)
-	1. [Introduction](#a-writing-introduction)
-	3. [Ensembles](#b-ensembles)
-	3. [Tempo](#c-tempo)
-	3. [Melodies](#d-melodies)
-	3. [Harmonies](#e-harmonies)
-4. [Typesetting](#iv-typesetting)
-	1. [Introduction](#a-typesetting-introduction)
-	4. [Basics](#b-basics)
-	4. [The Look](#c-the-look)
-	4. [The Delivery](#d-the-delivery)
-5. [Pieces](#v-pieces)
-	1. [Introduction](#a-piece-introduction)
-	5. [Ripple](#b-ripple)
-	5. [Mr. Blue Sky](#c-mr-blue-sky)
-	5. [Life on Mars?](#d-life-on-mars)
-	5. [September](#e-september)
-	5. [Dancing Queen](#f-dancing-queen)
-	5. [Ain't No Mountain](#g-ain't-no-mountain)
-6. [Closing Words](#vi-closing-words)
+| **[Introduction](index.md)** | [Field Guide](fieldguide.md) | [Writing](writing.md) |  [Typesetting](typesetting.md) |  [Pieces](pieces.md) | [Closing Words](closing.md) |
 
 ---------------
 
@@ -88,3 +54,5 @@ A lot of these lessons I've learned have come from **[pieces](#v-pieces)** I've 
 To close, there's some **[closing words](#vi-closing-words)** on the best resources to tap here in Carmel, and general well-wishes regarding the current State Of The Music Program and the undertaking that is the Concert for Whitney. The music program here provides the fuel to all our compositional and arrangement adventures, and I can't wait to share it with you.
 
 [^computer]: Computer scientists would call this top-down processing—where you're preeminently concerned with how the shipped product feels to the end user.
+
+---
