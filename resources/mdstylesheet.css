@@ -6,6 +6,11 @@ h1, h2, h3, h5 {
 	text-align: center;
 }
 
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .footnote[alt]:hover:after, span[alt]:hover:after { /*TODO: Fix this lmao */
 	content: attr(alt);
 	position: absolute;
