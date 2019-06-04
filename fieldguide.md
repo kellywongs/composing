@@ -6,7 +6,7 @@
 ### a field guide to the orchestra by kelly wong, ap literature class of 2019, <br> with apologies to paul hindemith and nikolai rimsky-korsakov
 
 ##### | [Introduction](index.md) | **[Field Guide](fieldguide.md)** | [Pieces](pieces.md) | [Closing Words](closing.md) |
-##### [*morality chart quiz*](https://twinery.org/2/#!/stories/87db6864-3b15-49a3-b901-ef456ad48030/play)
+##### [*morality chart quiz*](quiz.html)
 
 ---------------
 ## ii. A Field Guide to the Orchestra
@@ -524,9 +524,9 @@ Saxophones are, technically, wind instruments, even in all their brassy gold glo
 
 | contrabassoons | *an overview* |
 | ---  |  |
-| high range |  |
-| middle range |  |
-| low range |  |
+| high range | whispery, papery |
+| middle range | like a tree trunk is singing |
+| low range | blubpbublublbublubpub |
 | major weakness |  |
 | range |  |
 | dynamics | |
